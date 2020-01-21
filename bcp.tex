@@ -1,0 +1,126 @@
+\documentclass[foolscapvopaper,12pt,twoside,openany,extrafontsizes,final]{memoir}
+% \documentclass[ebook,12pt,twoside,openany,extrafontsizes,final]{memoir}
+\usepackage{fontspec}
+\usepackage{lettrine}
+\usepackage[autocompile]{gregoriotex}
+\usepackage{multicol}
+\usepackage{wrapfig}
+\usepackage[rflt]{floatflt}
+
+\directlua{dofile("lua-functions.lua")}
+\newcommand{\drop}[1]{
+    \directlua{drop("\luaescapestring{\unexpanded{#1}}")}
+}
+
+
+\setsecnumdepth{part} % Only number the parts.
+
+
+\setlength{\beforechapskip}{0\baselineskip}
+\setlength{\afterchapskip}{.5\baselineskip}
+\renewcommand*{\chaptitlefont}{\sffamily}
+\renewcommand*{\printchaptertitle}[1]{\centering\LARGE{\chaptitlefont #1}}
+
+\setsecheadstyle{\scshape\centering}
+\setaftersecskip{1pt}
+
+\setbeforesubsecskip{1em plus 0ex minus 1ex}
+\setsubsecheadstyle{\centering}
+\setaftersubsecskip{1pt}
+
+\setbeforesubsubsecskip{1em plus 0ex minus 1ex}
+\setsubsubsecheadstyle{\itshape\footnotesize\red\centering}
+\setaftersubsubsecskip{1pt}
+
+\emergencystretch 1.5em
+
+
+\newcommand \fleuron{{\centering\Large\red❦\par}}
+
+\nouppercaseheads
+\makepagestyle{mystyle}
+\makeevenhead{mystyle}{}{\scshape\leftmark}{}
+\makeoddhead{mystyle}{}{\scshape\rightmark}{}
+\makeevenfoot{mystyle}{}{\thepage}{}
+\makeoddfoot{mystyle}{}{\thepage}{}
+\makepsmarks{mystyle}{%
+  \createmark{chapter}{left}{nonumber}{}{}}
+
+\pagestyle{mystyle}
+
+
+
+% For the wrapped rubric on the embertide intercession
+\setlength{\intextsep}{2pt}
+
+\setmainfont[  
+    Numbers={OldStyle},
+    Ligatures={Rare,Historic},
+    % ItalicFeatures={Colour=990000}
+]{EBGaramond}
+\setsansfont{UnifrakturMaguntia}[StylisticSet={1},CharacterVariant={11,12,4:1}]
+
+
+\newcommand \red{\addfontfeature{Color=990000}}
+\newcommand \R{{\red℟.\ }}
+\newcommand \V{{\red℣.\ }}
+\newcommand \ant{{\scshape\small\red Ant.\ }}
+\newcommand \etc{\emph{\red\&c.}}
+\newcommand \minorheading[2]{{\unexpanded\expandafter{\scshape #1}} {\unexpanded\expandafter{\itshape #2}}}
+\newcommand \subseccaption[2]{\subsection{#1 {\itshape\small\red #2}}}
+
+\newcommand \rubric[1]{\footnotesize\emph{\red #1}\par\normalsize}
+\newcommand \pilcrow[1]{\par\noindent\footnotesize\makebox[1em][l]{¶ }\hangindent1em\rubric{#1}}
+
+\newcommand \cross {\grecross\ }
+
+\medievalpage
+\checkandfixthelayout
+
+
+\begin{document}
+\frontmatter
+\title{BCP}
+\author{Michael Shirk}
+\date{MMXIX}
+% \maketitle
+
+
+
+\mainmatter
+% \part{Service Music}
+\include{mattins}
+\include{evensong}
+
+[1549] ¶ In the feastes of Christmas, Thepiphanie, Easter, Thascencion, Pentecost, and upon Trinitie Sonday, shalbe song or sayd immediatly after Benedictus this confession of our christian fayth.
+
+ 
+Quicunque vult
+\include{litany}
+The Collects, Epistles, and Gospels, to be used at the Ministration of the Holy COmmunion, throughout the year.
+
+\include{mass}
+
+The Order of Baptism
+
+The Catachism
+
+The Order of Confirmation
+
+The Form of Solemnization of Matrimony
+
+The Order for the Visitation of the Sick, and the Communion of the Sick
+The Order for the Burial of the Dead.
+
+The Thanksgiving of Women after Child-birth
+
+The Psalter
+
+
+Chapter: Big all-caps
+Section: Regular all caps (Te deum, venite)
+Subheading: Regular (Scriptural citation)
+subsubsection (italic)
+
+\end{document}
+
