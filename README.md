@@ -1,6 +1,6 @@
-# Hymnale
+# Book of Common Prayer
 
-Book of Common Prayer is an adaption of the Anglican books of the same name, in a slightly more catholic and traditional direction than has been common since 1549.
+Book of Common Prayer is an adaption of the Anglican books of the same name, in a slightly more catholic and traditional direction. It follows the 1549, the proposed English 1928, the 1954 South African, etc.
 
 ## Installation
 

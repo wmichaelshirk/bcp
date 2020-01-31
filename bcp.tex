@@ -6,6 +6,10 @@
 \usepackage{multicol}
 \usepackage{wrapfig}
 \usepackage[rflt]{floatflt}
+\usepackage{longtable,tabu}
+% \usepackage{lua-visual-debug}
+% a Font that supplies Astrological glyphs
+\newfontfamily\versiculus{DejaVu Sans}
 
 \directlua{dofile("lua-functions.lua")}
 \newcommand{\drop}[1]{
@@ -15,19 +19,26 @@
 
 \setsecnumdepth{part} % Only number the parts.
 
-
+% Chapters
 \setlength{\beforechapskip}{0\baselineskip}
 \setlength{\afterchapskip}{.5\baselineskip}
 \renewcommand*{\chaptitlefont}{\sffamily}
 \renewcommand*{\printchaptertitle}[1]{\centering\LARGE{\chaptitlefont #1}}
 
+% Sections: Major chapter divisions; Days in the Psalter
+\setbeforesecskip{1em plus 2em minus 1ex}
 \setsecheadstyle{\scshape\centering}
 \setaftersecskip{1pt}
 
+%Subsection: Collects, Canticles, Psalms
+%{\schshape Title}{\itshape incipit}{\normal scriptural reference.}
 \setbeforesubsecskip{1em plus 0ex minus 1ex}
 \setsubsecheadstyle{\centering}
 \setaftersubsecskip{1pt}
+\newcommand{\stylesec}[3]{\small{\mbox{\scshape#1}} {\mbox{\itshape\red #2}} {\mbox{#3}}}
 
+%Subsubsection
+%Descriptive names of prayers, etc.
 \setbeforesubsubsecskip{1em plus 0ex minus 1ex}
 \setsubsubsecheadstyle{\itshape\footnotesize\red\centering}
 \setaftersubsubsecskip{1pt}
@@ -52,6 +63,10 @@
 
 % For the wrapped rubric on the embertide intercession
 \setlength{\intextsep}{2pt}
+% Get rid of extra space around longtable
+\setlength{\LTpre}{0pt}
+\setlength{\LTpost}{-\baselineskip}
+
 
 \setmainfont[  
     Numbers={OldStyle},
@@ -66,61 +81,137 @@
 \newcommand \V{{\red℣.\ }}
 \newcommand \ant{{\scshape\small\red Ant.\ }}
 \newcommand \etc{\emph{\red\&c.}}
-\newcommand \minorheading[2]{{\unexpanded\expandafter{\scshape #1}} {\unexpanded\expandafter{\itshape #2}}}
+\newcommand \minorheading[2]{{\unexpanded\expandafter{\scshape #1}}\par{\unexpanded\expandafter{\itshape #2}}}
 \newcommand \subseccaption[2]{\subsection{#1 {\itshape\small\red #2}}}
 
-\newcommand \rubric[1]{\footnotesize\emph{\red #1}\par\normalsize}
-\newcommand \pilcrow[1]{\par\noindent\footnotesize\makebox[1em][l]{¶ }\hangindent1em\rubric{#1}}
+\newcommand \rubric[1]{\emph{\footnotesize\red #1}}
+\newcommand \pilcrow[1]{\par\footnotesize\noindent\makebox[1em][l]{¶ }\hangindent1em\rubric{#1}\par\normalsize}
 
 \newcommand \cross {\grecross\ }
 
 \medievalpage
+\raggedbottom
 \checkandfixthelayout
 
 
 \begin{document}
 \frontmatter
-\title{BCP}
+\title{Book of Common Prayer}
 \author{Michael Shirk}
-\date{MMXIX}
+\date{MMXX}
 % \maketitle
 
+\settocdepth{chapter}
+\tableofcontents*
 
 
+Preface
+
+
+\mainmatter
+
+\include{kalendar}
 \mainmatter
 % \part{Service Music}
 \include{mattins}
 \include{evensong}
-
-[1549] ¶ In the feastes of Christmas, Thepiphanie, Easter, Thascencion, Pentecost, and upon Trinitie Sonday, shalbe song or sayd immediatly after Benedictus this confession of our christian fayth.
-
- 
-Quicunque vult
+\include{quicunque}
 \include{litany}
 The Collects, Epistles, and Gospels, to be used at the Ministration of the Holy COmmunion, throughout the year.
 
-\include{mass}
+% \include{mass}
 
 The Order of Baptism
-
 The Catachism
-
 The Order of Confirmation
-
 The Form of Solemnization of Matrimony
-
 The Order for the Visitation of the Sick, and the Communion of the Sick
 The Order for the Burial of the Dead.
-
 The Thanksgiving of Women after Child-birth
 
 The Psalter
 
+Appendix?
+Blessing of anything
+Blessing of Holy Water
+Personal prayers (1928 bcp)
+
+\end{document}
 
 Chapter: Big all-caps
 Section: Regular all caps (Te deum, venite)
 Subheading: Regular (Scriptural citation)
 subsubsection (italic)
 
-\end{document}
 
+Chapter:   
+The order for (caps, 1em?)
+MORNING PRAYER (caps, 2em?)
+daily throughout the year (caps, 1em?)
+
+Section
+;
+a supplication
+;
+The First Sunday in Advent
+;
+The Nativity of Our Lord, or the 1
+Birthday of Christ 1 
+commonly called 2
+Christmas day 1
+[December 25] 2
+;
+The Sunday called  (it) 3
+Septuagesima (all caps)1
+or the third Sunday before Lent. 3
+;
+Day 9. Evening Prayer
+
+subsection
+VENITE< EXULTEMUS DOMINO (caps, 1em?) 1
+Psalm 95. (.75em?) 2
+
+;
+Psalm 47 (ALL CAPS); Omnes gentes, plaudite. (it)
+
+
+Anglican Breviary
+The Song of Zacharias
+_Benedictus Dominus, Deus Israel._
+Luke I.68.
+
+Diurnal
+The Song of the Blessed Virgin (SC)
+_Magnificat_
+
+subsubsection
+2 Corinthians 13. (it, 1em)
+; 
+The Collect
+;
+The Epistle. (it) Romans 13.8 (normal)
+
+Baskerville:
+
+
+
+_Te Deum Laduamus_
+_Beedictus_ S. LUKE I. 68
+_Jubilate DEO. PSAL. 100.
+
+_the Second Collect, for Peace_
+
+
+_The_ Nativity _of our Lord, or the_ Birth-Day _of_ CHRIST, _commonl called_ Christmas-day.
+
+
+
+Psalms:
+_The_ 1. _Day.     Psalms   |     Psalms  _The_ 2. _Day._
+PSAL. 8. _Domine, Dominus noster
+
+M O R N I N G  P R A Y E R
+PSAL. 9. _Confitebor tibi.
+
+Current:
+Day 12 : Mn.   THE PSALMS   Ps. 64 | Ps. 65  THE PSALMS  Day 12 : Ev.
