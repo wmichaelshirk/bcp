@@ -1,11 +1,11 @@
-\documentclass[foolscapvopaper,12pt,twoside,openany,extrafontsizes,final]{memoir}
+\documentclass[foolscapvopaper,11pt,twoside,openany,extrafontsizes,final]{memoir}
 % \documentclass[ebook,12pt,twoside,openany,extrafontsizes,final]{memoir}
 \usepackage{fontspec}
 \usepackage{lettrine}
 \usepackage[autocompile]{gregoriotex}
 \usepackage{multicol}
 \usepackage{wrapfig}
-\usepackage[rflt]{floatflt}
+% \usepackage[rflt]{floatflt}
 \usepackage{longtable,tabu}
 % \usepackage{lua-visual-debug}
 % a Font that supplies Astrological glyphs
@@ -35,8 +35,10 @@
 \setbeforesubsecskip{1em plus 0ex minus 1ex}
 \setsubsecheadstyle{\centering}
 \setaftersubsecskip{1pt}
-\newcommand{\stylesec}[3]{\small{\mbox{\scshape#1}} {\mbox{\itshape\red #2}} {\mbox{#3}}}
 
+\newcommand{\stylesubsec}[3]{\small{\mbox{\scshape#1}} {\mbox{\itshape\red #2}} {\mbox{#3}}}
+\newcommand{\stylesec}[3]{\section[#3]{#1\\ {\normalfont\small#2\\ } #3}}
+\newcommand{\scripture}[1]{\hspace*{\fill}{\mbox{\small\itshape\red #1}}}
 %Subsubsection
 %Descriptive names of prayers, etc.
 \setbeforesubsubsecskip{1em plus 0ex minus 1ex}
@@ -64,8 +66,8 @@
 % For the wrapped rubric on the embertide intercession
 \setlength{\intextsep}{2pt}
 % Get rid of extra space around longtable
-\setlength{\LTpre}{0pt}
-\setlength{\LTpost}{-\baselineskip}
+\setlength{\LTpre}{.5em}
+\setlength{\LTpost}{.5em}
 
 
 \setmainfont[  
@@ -117,7 +119,8 @@ Preface
 \include{evensong}
 \include{quicunque}
 \include{litany}
-The Collects, Epistles, and Gospels, to be used at the Ministration of the Holy COmmunion, throughout the year.
+\include{collects}
+
 
 % \include{mass}
 

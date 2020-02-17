@@ -62,16 +62,16 @@ function printKalendar(reduced)
         local splitline = tsplit(line, "|")
         if not splitline or (#splitline == 1 and trim(splitline[1]) == "") then
             if inTable == true then
-                tex.print("\\end{longtabu}}\n")
+                tex.print("\\end{longtabu}}")
                 inTable = false
             end
         elseif #splitline == 1 then
-            tex.print("\\section{" .. splitline[1] .. "}\n")
-            tex.print("{\\" .. mainFontSize .. "\n")
+            tex.print("\\section{" .. splitline[1] .. "}")
+            tex.print("{\\" .. mainFontSize)
             if reduced then
-                tex.print("\\begin{longtabu} to \\linewidth {@{} c @{\\hspace{.5em}} X @{} }\n")
+                tex.print("\\begin{longtabu} to \\linewidth {@{} c @{\\hspace{.5em}} X @{} }")
             else
-                tex.print("\\begin{longtabu} to \\linewidth {@{} c @{\\hspace{.5em}} c @{\\hspace{.5em}} r @{\\hspace{.3em}} l @{\\hspace{1em}} X @{} }\n")
+                tex.print("\\begin{longtabu} to \\linewidth {@{} c @{\\hspace{.5em}} c @{\\hspace{.5em}} r @{\\hspace{.3em}} l @{\\hspace{1em}} X @{} }")
             end
             inTable = true
         else 
@@ -108,7 +108,7 @@ function printKalendar(reduced)
                     table.remove(splitline,4)
                 end
             end
-            tex.print(table.concat(splitline,"&") .. "\\\\\n")
+            tex.print(table.concat(splitline,"&") .. "\\\\")
         end
     end)()     
     end
