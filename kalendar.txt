@@ -147,7 +147,7 @@ May
 11 | e |     v | id’ | 
 12 | f |    iv | id’
 13 | g |   iij | id’ | 
-14 | A | prid. | id’ | ·S.~Dominique-Marie Varlet, Bishop of Bablyon. †1742.
+14 | A | prid. | id’ | ·S.~Dominique-Marie Varlet, Bishop of Babylon. †1742.
 15 | b |  Ides | 
 16 | c |  xvij | kl’ | 
 17 | d |   xvj | kl’ | 

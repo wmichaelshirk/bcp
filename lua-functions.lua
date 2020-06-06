@@ -51,7 +51,6 @@ end
 function printKalendar(reduced)
     reduced = reduced or false
     local mainFontSize = "tiny"
-    local doubleFeastSize = "small"
     -- Columns:
     -- 1 day, 2 Sunday Letter, 3-4 Roman day, 5 Feast (6 "rubric")
 
@@ -111,5 +110,30 @@ function printKalendar(reduced)
             tex.print(table.concat(splitline,"&") .. "\\\\")
         end
     end)()     
+    end
+end
+
+function printPsalter()
+    local drop = false
+    for line in io.lines("psalter.txt") do
+        local s = line
+        if drop then
+            s = "\\drop{" .. s .. "}"
+        end
+        if s:sub(1, #"\\psalm") == "\\psalm" then
+            drop = true
+        else 
+            drop = false
+        end
+        s = string.gsub(s, "*", "\\star\\ ")
+        s = string.gsub(s, "(%d+)%.", "%1")
+        s = string.gsub(s, "(%d+) ", "%1\\enspace ")
+        s = string.gsub(s, "%[%[", "{\\scshape ")
+        s = string.gsub(s, "]]", "}")
+        s = string.gsub(s, "· ", "·")
+        s = string.gsub(s, "·", "")
+        s = string.gsub(s, "–", "")
+        tex.print(s)
+        tex.print("")
     end
 end

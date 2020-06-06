@@ -1,5 +1,6 @@
 \newcommand \Sol[1]{{\versiculus☉}~in~{\versiculus#1}}
-\newcommand \dub[1]{{\footnotesize\sffamily #1}}		% Double Feasts
+% \newcommand \dub[1]{{\footnotesize\sffamily #1}}		% For unifraktur
+\newcommand \dub[1]{{\sffamily #1}}		% Double Feasts
 \newcommand \mem[1]{\emph{#1}} % Memorials
 
 %\renewcommand \dub[1]{{\sffamily #1}}		% Double Feasts
@@ -69,13 +70,14 @@ To find the Dominical or Sunday Letter, according to the Calendar, until the Yea
 \vspace{6pt}
 
 {\centering\setlength{\extrarowheight}{2pt}
-{\tiny\begin{tabular} { | c c c c c c c | }
+\addfontfeature{RawFeature=-onum}
+{\tiny\begin{tabu} { | X[c] X[c] X[c] X[c] X[c] X[c] X[c]| }
 \hline
 0 & 1 & 2 & 3 & 4 & 5 & 6 \\
 \hline
 A & G & F & E & D & C & B \\
 \hline
-\end{tabular}}\par}
+\end{tabu}}\par}
 
 \vspace{2pt}
 For the next Century, that is, from the year 2100 till the year 2199 inclusive, add to the current year its fourth part, and also the number 5, and then divide by 7, and proceed as in the last Rule.

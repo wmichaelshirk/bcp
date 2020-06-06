@@ -69,14 +69,43 @@
 \setlength{\LTpre}{.5em}
 \setlength{\LTpost}{.5em}
 
+%s"] = "ſ
+\directlua{
+  fonts.handlers.otf.addfeature{
+    name = "calt",
+    type = "chainsubstitution",
+    lookups = {
+      {
+        type = "substitution",
+        data = {
+          ["s"] = "ſ",
+        },
+      },
+    },
+    data = {
+      rules = {
+        {
+          before = { { 0xFFFC, "-", "·", "A", "Í", "I", "P", "a", "á", "b", "c", "d", "e", "é", "g", "h", "i", "j", "k", "l", "m", "n", "o", "ó", "p", "q", "r", "s", "ſ", "t", "u", "ú", "v", "w", "x", "y", "z" } },
+          after = { { "·", "-", "a", "á", "c", "d", "e", "é", "g", "h", "i", "í", "j", "l", "m", "n", "o", "ó", "p", "q", "r", "s", "t", "u", "ú", "v", "w", "x", "y", "z" } },
+          current = { { "s" } },
+          lookups = { 1 },
+        },
+      },
+    },
+  }
+}
 
 \setmainfont[  
-    Numbers={OldStyle},
-    Ligatures={Rare,Historic},
+    Numbers={OldStyle, Proportional},
+    %Ligatures={Rare},%,Historic},
+    %CharacterVariant={1:0}
+    %CharacterVariant=1,
+    %StylisticSet=7,
+    RawFeature={+calt}
     % ItalicFeatures={Colour=990000}
 ]{EBGaramond}
-\setsansfont{UnifrakturMaguntia}[StylisticSet={1},CharacterVariant={11,12,4:1}]
-
+% \setsansfont{UnifrakturMaguntia}[StylisticSet={1},CharacterVariant={11,12,4:1}]
+\setsansfont{KJV1611}[RawFeature={+hist,+calt}]
 
 \newcommand \red{\addfontfeature{Color=990000}}
 \newcommand \R{{\red℟.\ }}
@@ -112,8 +141,9 @@ Preface
 
 \mainmatter
 
-\include{kalendar}
 \mainmatter
+\input{kalendar}
+\input{psalmTable}
 % \part{Service Music}
 \include{mattins}
 \include{evensong}
@@ -129,92 +159,11 @@ The Catachism
 The Order of Confirmation
 The Form of Solemnization of Matrimony
 The Order for the Visitation of the Sick, and the Communion of the Sick
+Kings evil in a git branch
+
 The Order for the Burial of the Dead.
 The Thanksgiving of Women after Child-birth
 
-The Psalter
-
-Appendix?
-Blessing of anything
-Blessing of Holy Water
-Personal prayers (1928 bcp)
+\include{psalter}
 
 \end{document}
-
-Chapter: Big all-caps
-Section: Regular all caps (Te deum, venite)
-Subheading: Regular (Scriptural citation)
-subsubsection (italic)
-
-
-Chapter:   
-The order for (caps, 1em?)
-MORNING PRAYER (caps, 2em?)
-daily throughout the year (caps, 1em?)
-
-Section
-;
-a supplication
-;
-The First Sunday in Advent
-;
-The Nativity of Our Lord, or the 1
-Birthday of Christ 1 
-commonly called 2
-Christmas day 1
-[December 25] 2
-;
-The Sunday called  (it) 3
-Septuagesima (all caps)1
-or the third Sunday before Lent. 3
-;
-Day 9. Evening Prayer
-
-subsection
-VENITE< EXULTEMUS DOMINO (caps, 1em?) 1
-Psalm 95. (.75em?) 2
-
-;
-Psalm 47 (ALL CAPS); Omnes gentes, plaudite. (it)
-
-
-Anglican Breviary
-The Song of Zacharias
-_Benedictus Dominus, Deus Israel._
-Luke I.68.
-
-Diurnal
-The Song of the Blessed Virgin (SC)
-_Magnificat_
-
-subsubsection
-2 Corinthians 13. (it, 1em)
-; 
-The Collect
-;
-The Epistle. (it) Romans 13.8 (normal)
-
-Baskerville:
-
-
-
-_Te Deum Laduamus_
-_Beedictus_ S. LUKE I. 68
-_Jubilate DEO. PSAL. 100.
-
-_the Second Collect, for Peace_
-
-
-_The_ Nativity _of our Lord, or the_ Birth-Day _of_ CHRIST, _commonl called_ Christmas-day.
-
-
-
-Psalms:
-_The_ 1. _Day.     Psalms   |     Psalms  _The_ 2. _Day._
-PSAL. 8. _Domine, Dominus noster
-
-M O R N I N G  P R A Y E R
-PSAL. 9. _Confitebor tibi.
-
-Current:
-Day 12 : Mn.   THE PSALMS   Ps. 64 | Ps. 65  THE PSALMS  Day 12 : Ev.
