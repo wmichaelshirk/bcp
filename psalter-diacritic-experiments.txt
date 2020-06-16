@@ -1,6 +1,8 @@
 ·\s?(.*?)([AEIOUaeioua̍e̍i̍o̍úA̍E̍I̍O̍Ú])
 $1$2̇̇
 
+a
+
 \psalterday{1}{Morning}
 \psalm{1}{Beatus vir, qui non abiit, \&c.}
 Blessed is the man that hath not walked in the counsel of the ungodly, nor stood in the · wa̍y of si̍nners, * and hath not sat in the se̍at · of the sco̍rnful.
