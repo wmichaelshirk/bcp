@@ -16,7 +16,7 @@ Why do the heathen so furiously · ráge togéther? * and why do the people imá
 3. Let us break their · bónds asúnder, * and cast a·wáy their córds from us.
 4. He that dwelleth in heaven shall láugh · them to scórn: * the Lord shall have them · ín derísion.
 5. Then shall he speak unto thém · in his wráth, * and vex them in his · sóre displéasure.
-6. Yet háve I · set my Kíng * upon my holy · híll of Sýon.
+6. Yet háve I · set my Kíng * upon my holy · híll of Síon.
 7. I will preach the law, whereof the [[Lord]] hath sáid · unto mé, * Thou art my Son, this day have · Í begótten thee.
 8. Desire of me, and I shall give thee the heathen for · thíne inhéritance, * and the utmost parts of the earth for · thý posséssion.
 9. Thou shalt bruise them with a · ród of íron, * and break them in pieces like a · pótter’s véssel.
@@ -24,28 +24,29 @@ Why do the heathen so furiously · ráge togéther? * and why do the people imá
 11. Sérve the · [[Lord]] in féar, * and rejoice unto · hím with réverence.
 12. Kiss the Son, lest he be angry, and so ye perish fróm · the right wáy, * if his wrath be kindled, yea, but a little. Blessed are all they that · pút their trúst in him.
 
-\psalm{3}{Domine, quid multiplicati?}
+
+\psalm[A psalm of David when he fled from the face of Absolon his son.]{3}{Domine, quid multiplicati?}
 Lord, how are they incréas·ed that tróuble me! * many are they that · ríse agáinst me.
-2. Many one there be that sáy · of my sóul, * There is no help for · hím in hís God.
+2. Many one there be that sáy · of my sóul, * There is no help for · hím in hís God.\selah
 3. But thou, O [[Lord]], art · mý defénder; * thou art my worship, and the lifter · úp of mý head.
-4. I did call upon the [[Lórd]] · with my vóice, * and he heard me óut · of his hóly hill.
+4. I did call upon the [[Lórd]] · with my vóice, * and he heard me óut · of his hóly hill.\selah
 5. I laid me down and slept, and róse · up agáin; * for the · [[Lórd]] sustáined me.
 6. I will not be afraid for ten thousands · óf the péople, * that have set themselves a·gáinst me róund about.
 7. Up, [[Lord]], and hélp me, · O my Gód, * for thou smitest all mine enemies upon the cheekbone; thou hast broken the teeth of · thé ungódly.
-8. Salvation belongeth ún·to the [[Lórd]]; * and thy blessing is up·ón thy péople.
+8. Salvation belongeth ún·to the [[Lórd]]; * and thy blessing is up·ón thy péople.\selah
 
-\psalm{4}{Cum invocarem.}
+\psalm[To him that excelleth in musick, a psalm of David.]{4}{Cum invocarem.}
 Hear me when I call, O Gód · of my ríghteousness: * thou hast set me at liberty when I was in trouble; have mercy upon me, and hearken · únto mý prayer.
-2. O ye sons of men, how long will ye blas·phéme mine hónour, * and have such pleasure in vanity, and séek · after léasing?
+2. O ye sons of men, how long will ye blas·phéme mine hónour, * and have such pleasure in vanity, and séek · after léasing?\selah
 3. Know this also, that the Lord hath chosen to himself the mán · that is gódly; * when I call upon the Lord, · hé will héar me.
-4. Stand in áwe, · and sin nót; * commune with your own heart, and in your · chámber, ánd be still.
+4. Stand in áwe, · and sin nót; * commune with your own heart, and in your · chámber, ánd be still.\selah
 5. Offer the sacri·fíce of ríghteousness, * and put your · trúst in thé [[Lord]].
 6. There be má·ny that sáy, * Who will · shéw us ány good?
 7. [[Lord]], · líft thou úp * the light of thy counte·nánce upón us.
 8. Thou hast put gládness · in my héart; * since the time that their corn and wine and · óil incréased.
 9. I will lay me down in péace, and · take my rést; * for it is thou, [[Lord]], only, that makest me · dwéll in sáfety.
 
-\psalm{5}{Verba mea auribus.}
+\psalm[To him that excelleth in songs of musick: a psalm of David.]{5}{Verba mea auribus.}
 Ponder my · wórds, O Lórd, * consider my · méditátion
 2. O hearken thou unto the voice of my calling, my Kíng, · and my Gód: * for unto thée · will I máke my prayer.
 3. My voice shalt thou hear be·tímes, O [[Lórd]]; * early in the morning will I direct my prayer unto thee, · ánd will lóok up.
@@ -61,7 +62,7 @@ Ponder my · wórds, O Lórd, * consider my · méditátion
 13. For thou, [[Lord]], wilt give thy blessing un·tó the ríghteous, * and with thy favourable kindness wilt thou defénd · him as wíth a shield.
 
 \psalterday{1}{Evening}
-\psalm{6}{Domine, ne in furore.}
+\psalm[To him that excelleth in musick, upon the instrument of eight strings. A psalm of David.]{6}{Domine, ne in furore.}
 O Lord, rebuke me not in thine · índignátion, * neither chasten me in · thý displéasure. 
 2. Have mercy upon me, O [[Lórd]], for · I am wéak; * O [[Lord]], heal me, for my · bónes are véxed.
 3. My soul also · is sóre tróubled: * but, [[Lord]], how long · wílt thou púnish me?
@@ -73,12 +74,12 @@ O Lord, rebuke me not in thine · índignátion, * neither chasten me in · thý
 9. The [[Lord]] hath heard · mý petítion; * the [[Lórd]] · will recéive my prayer.
 10. All mine enemies shall be confounded, · and sóre véxed; * they shall be turned back, and put · to shäme súddenly.
 
-\psalm{7}{Domine, Deus meus.}
+\psalm[Sigaion of David, which he sang unto the Lord in the the business of Chus the son of Jemini.]{7}{Domine, Deus meus.}
 O Lord my God, in thee háve I · put my trúst: * save me from all them that persecute me, · ánd delíver me;
 2. Lest he devour my soul, like a lion, and téar · it in píeces, * while · thére is nóne to help.
 3. O [[Lord]] my God, if I have done á·ny such thíng; * or if there be any wíck·edness ín my hands;
 4. If I have rewarded evil unto him that dealt fríend·ly with mé; * yea, I have delivered him that without any cause · ís mine énemy,
-5. Then let mine enemy persecute my · sóul, and táke me; * yea, let him tread my life down upon the earth, and lay mine · hónour ín the dust.
+5. Then let mine enemy persecute my · sóul, and táke me; * yea, let him tread my life down upon the earth, and lay mine · hónour ín the dust.\selah
 6. Stand up, O [[Lord]], in thy wrath, and lift up thyself, because of the indignation · óf mine énemies; * arise up for me in the judgement that thou · hást commánded.
 7. And so shall the congregation of the people cóme · about thée: * for their sakes therefore lift · úp thysélf again.
 8. The [[Lord]] shall judge the people: give sentence wíth · me, O [[Lórd]], * according to my righteousness, and according to the innocency · thát is ín me.
@@ -93,7 +94,7 @@ O Lord my God, in thee háve I · put my trúst: * save me from all them that pe
 17. For his travail shall come upón · his own héad, * and his wickedness shall fáll · on his ówn pate.
 18. I will give thanks unto the [[Lord]], according · tó his ríghteousness; * and I will praise the Náme · of the [[Lórd]] Most High.
 
-\psalm{8}{Domine, Dominus noster.} 
+\psalm[To him that excelleth in Githith, a Psalm of David.]{8}{Domine, Dominus noster.} 
 O Lord our Governor, how excellent is thy Náme in · all the wórld; * thou that hast set thy glory a·bóve the héavens! 
 2. Out of the mouth of very babes and sucklings hast thou ordained strength, becáuse · of thine énemies, * that thou mightest still the enemy ánd · the avénger.
 3. For I will consider thy heavens, even the wórks · of thy fíngers; * the moon and the stars, which thou · hást ordáined.
@@ -108,7 +109,7 @@ O Lord our Governor, how excellent is thy Náme in · all the wórld; * thou tha
 
 
 \psalterday{2}{Morning}
-\psalm{9}{Confitebor tibi.}
+\psalm[To him that excelleth upon Almuth Labben, a Psalm of David]{9}{Confitebor tibi.}
 I will give thanks unto thee, O [[Lord]], wíth · my whole héart; * I will speak of all thy · márvellóus works.
 2. I will be glád and re·joice in thée; * yea, my songs will I make of thy Name, O · thóu Most Híghest.
 3. While mine enemíes are · driven báck, * they shall fall and perish · át thy présence.
@@ -119,16 +120,16 @@ I will give thanks unto thee, O [[Lord]], wíth · my whole héart; * I will spe
 8. For he shall judge the · wórld in ríghteousness, * and minister true judgement un·tó the péople.
 9. The [[Lord]] also will be a defence fór · the oppréssed, * even a refuge in due · tíme of tróuble.
 10. And they that know thy Name will pút their · trust in thée; * for thou, [[Lord]], hast never failed · thém that séek thee.
-11. O praise the [[Lord]] which dwéll·eth in Sýon; * shew the people · óf his dóings.
+11. O praise the [[Lord]] which dwéll·eth in Síon; * shew the people · óf his dóings.
 12. For when he maketh inquisition for blood, he re\-mém·\-bereth thém, * and forgetteth not the com·pláint of thé poor.
 13. Have mercy upon me, O [[Lord]]; consider the trouble which I suffer of · thém that háte me, * thou that liftest me up · fróm the gátes of death.
-14. That I may shew all thy praises within the ports of the dáugh·ter of Sýon: * I will rejoice in · thý salvátion.
+14. That I may shew all thy praises within the ports of the dáugh·ter of Síon: * I will rejoice in · thý salvátion.
 15. The heathen are sunk down in the pít · that they máde; * in the same net which they hid privily, is · their föot táken.
-16. The [[Lord]] is known to éx·ecute júdgement; * the ungodly is trapped in the wórk · of his ówn hands.
+16. The [[Lord]] is known to éx·ecute júdgement; * the ungodly is trapped in the wórk · of his ówn hands.%\selah{A consideration. Selah.}
 17. The wicked shall be túrned · into héll, * and all the people · thát forgét God.
 18. For the poor shall not alway · bé forgótten; * the patient abiding of the meek shall not pé·rish for éver.
 19. Up, [[Lord]], and let not man háve the · upper hánd; * let the heathen be júdg·ed in thý sight.
-20. Put thém in · fear, O [[Lórd]], * that the heathen may know them·sélves to bé but men.
+20. Put thém in · fear, O [[Lórd]], * that the heathen may know them·sélves to bé but men.\selah
 
 \psalm{10}{Ut quid, Domine?}
 Why standest thou so far · óff, O [[Lórd]], * and hidest thy face in the needful · tíme of tróuble?
@@ -152,7 +153,7 @@ Why standest thou so far · óff, O [[Lórd]], * and hidest thy face in the need
 19. [[Lord]], thou hast heard the desíre · of the póor; * thou preparest their heart, and thine ear héark·eneth théreto;
 20. To help the fatherless and poor ún·to their ríght, * that the man of the earth be no more exál·ted agáinst them.
 
-\psalm{11}{In Domino confido.}
+\psalm[To the chanter, a Psalm of David.]{11}{In Domino confido.}
 In the [[Lord]] pút · I my trúst; * how say ye then to my soul, that she should flee as a · bírd untó the hill?
 2. For lo, the ungodly bend their bow, and make ready their arrows with·ín the quíver, * that they may privily shoot at thém · which are trúe of heart.
 3. For the foundations wíll · be cast dówn, * and whát · hath the ríghteous done?
@@ -164,7 +165,7 @@ In the [[Lord]] pút · I my trúst; * how say ye then to my soul, that she shou
 
 
 \psalterday{2}{Evening}
-\psalm{12}{Salvum me fac.}
+\psalm[To him that excelleth upon an instrument of eight strings, a Psalm of David.]{12}{Salvum me fac.}
 Help me, [[Lord]], for there is not one gód·ly man léft; * for the faithful are minished from among the · chíldren óf men.
 2. They talk of vanity every one · wíth his néighbour; * they do but flatter with their lips, and dissemble · ín their dóuble heart.
 3. The [[Lord]] shall root out áll de·ceitful líps, * and the tongue that · spéaketh próud things;
@@ -175,7 +176,7 @@ Help me, [[Lord]], for there is not one gód·ly man léft; * for the faithful a
 8. Thou shalt kéep · them, O [[Lórd]]; * thou shalt preserve him from this generá·tion for éver.
 9. The ungodly walk on év·ery síde: * when they are exalted, the children of men are · pút to rébuke.
 
-\psalm{13}{Usque quo, Domine?}
+\psalm[To the chaunter, a Psalm of David.]{13}{Usque quo, Domine?}
 How long wilt thou forget me, O · Lórd; for éver? * how long wilt thou · híde thy fáce from me?
 2. How long shall I seek counsel in my soul, and be so véxed · in my héart? * how long shall mine enemies · tríumph óver me?
 3. Consider, and héar me, O · [[Lord]] my Gód; * lighten mine eyes, that I · sléep not ín death.
@@ -183,7 +184,7 @@ How long wilt thou forget me, O · Lórd; for éver? * how long wilt thou · hí
 5. But my trust is · ín thy mércy, * and my heart is joyful in · thý salvátion.
 6. I will sing of the [[Lord]], because he hath dealt so lóving·ly with mé; * yea, I will praise the Name of the · Lórd Most Híghest.
 
-\psalm{14}{Dixit insipiens.} 
+\psalm[To the chaunter, a Psalm of David.]{14}{Dixit insipiens.} 
 The fool hath sáid · in his héart, * – · Thére is nó God.
 2. They are corrupt, and become abominable · ín their dóings; * there is none that do·eth göod, nó not one.
 3. The [[Lord]] looked down from heaven upon the chíl·dren of mén, * to see if there were any that would understand, · and sëek áfter God.
@@ -194,7 +195,7 @@ The fool hath sáid · in his héart, * – · Thére is nó God.
 8. Have they no knowledge, that they are all such wórk·ers of míschief, * eating up my people as it were bread, and call · nót upón the [[Lord]]?
 9. There were they brought in great fear, even whére · no fear wás; * for God is in the generation · óf the ríghteous.
 10. As for you, ye have made a mock at the cóunsel · of the póor; * because he putteth his · trúst in thé [[Lord]].
-11. Who shall give salvation unto Israel out of Syon? When the [[Lord]] turneth the captivity · óf his péople, * then shall Iacob rejoice, and Ís·rael sháll be glad.
+11. Who shall give salvation unto Israel out of Sion? When the [[Lord]] turneth the captivity · óf his péople, * then shall Iacob rejoice, and Ís·rael sháll be glad.
 
 
 \psalterday{3}{Morning}
@@ -207,7 +208,7 @@ Lord, who shall dwell in thy · tábernácle? * or who shall rest up·ón thy h�
 6. He that hath not given his money · úpon úsury, * nor taken reward a·gáinst the ínnocent.
 7. Whoso dó·eth these thíngs * – · – shall néver fall.
 
-\psalm{16}{Conserva me, Domine.} 
+\psalm[The badge or armes of David.]{16}{Conserva me, Domine.} 
 Presérve · me, O Gód; * for in thee · háve I pút my trust.
 2. O my soul, thou hast sáid un·to the [[Lórd]], * Thou art my God; my goods are · nóthing únto thee.
 3. All my delight is upon the saints, thát are · in the éarth, * and upon such as ex·cél in vírtue.
@@ -221,7 +222,7 @@ Presérve · me, O Gód; * for in thee · háve I pút my trust.
 11. For why? thou shalt not léave my · soul in héll; * neither shalt thou suffer thy Holy One to · sée corrúption.
 12. Thou shalt shew me the path of life: in thy presence is the fúl·ness of jóy, * and at thy right hand there is pléa·sure for évermore.
 
-\psalm{17}{Exaudi, Domine.} 
+\psalm[A prayer of David.]{17}{Exaudi, Domine.} 
 Hear the right, O [[Lord]], consíder · my compláint, * and hearken unto my prayer, that goeth not · óut of féigned lips.
 2. Let my sentence come forth · fróm thy présence; * and let thine eyes look upon the thíng · that is équal.
 3. Thou hast proved and visited mine heart in the night-season; thou hast tried me, and shalt find no wícked·ness in mé; * for I am utterly purposed that my · móuth shall nót offend.
@@ -241,7 +242,7 @@ Hear the right, O [[Lord]], consíder · my compláint, * and hearken unto my pr
 
 
 \psalterday{3}{Evening}
-\psalm{18}{Diligam te, Domine.} 
+\psalm[To the chaunter of David the servant of the Lord, which spake unto the Lord the words of this song, (in the day that the Lord delivered him from the hand of all his enemies, and from the hand of Saul) and he said,]{18}{Diligam te, Domine.} 
 I will love thee, O [[Lord]], my strength. The [[Lord]] is my stony róck, and · my defénce; * my saviour, my God, and my might, in whom I will trust; my buckler, the horn also of my salvation, · ánd my réfuge.
 2. I will call upon the [[Lord]], which is worthy · tó be práised; * so shall I be safe · fróm mine énemies.
 3. The sorrows of death cóm·passed mé, * and the overflowings of ungodli·ness máde mé afraid.
@@ -299,7 +300,7 @@ I will love thee, O [[Lord]], my strength. The [[Lord]] is my stony róck, and �
 
 
 \psalterday{4}{Morning}
-\psalm{19}{Cœli enarrant.} 
+\psalm[To the chaunter, a Psalm of David.]{19}{Cœli enarrant.} 
 The heavens declare the gló·ry of Gód; * and the firmament shéw·eth his hándywork.
 2. One day tél·leth anóther; * and one night certifí·eth anóther.
 3. There is neither · spéech nor lánguage; * but their voices are · héard amóng them.
@@ -316,10 +317,10 @@ The heavens declare the gló·ry of Gód; * and the firmament shéw·eth his há
 14. Let the words of my mouth, and the meditátion · of my héart, * be alway accépta·ble in thý sight,
 15. O [[Lord]], – * my strength, and · mý redéemer.
 
-\psalm{20}{Exaudiat te Dominus.} 
+\psalm[To the chaunter, a Psalm of David.]{20}{Exaudiat te Dominus.} 
 The [[Lord]] hear thee in the · dáy of tróuble; * the Name of the God of Já·cob defénd thee;
-2. Send thee help from the · sánctuáry, * and strengthen thee · óut of Sýon:
-3. Remember · áll thy ófferings, * and accept · thý burnt-sácrifice;
+2. Send thee help from the · sánctuáry, * and strengthen thee · óut of Síon:
+3. Remember · áll thy ófferings, * and accept · thý burnt-sácrifice;\selah
 4. Grant thée thy · heart’s desíre, * and ful·fíl all thý mind.
 5. We will rejoice in thy salvation, and triumph in the Náme of the · Lord our Gód * the [[Lord]] perform all · thý petítions.
 6. Now know I that the [[Lord]] helpeth his Anointed, and will hear him from his · hóly héaven, * even with the wholesome stréngth · of his ríght hand.
@@ -327,9 +328,9 @@ The [[Lord]] hear thee in the · dáy of tróuble; * the Name of the God of Já�
 8. They are brought · dówn, and fállen; * but we are rí·sen, and stánd upright.
 9. Save, [[Lord]]; and hear us, O · Kíng of héaven, * when we · cáll upón thee.
 
-\psalm{21}{Domine, in virtute tua.} 
+\psalm[To the chaunter, a Psalm of David.]{21}{Domine, in virtute tua.} 
 The King shall rejoice ín thy · strength, O [[Lórd]]; * exceeding glad shall he be of · thý salvátion.
-2. Thou hast given hím his · heart’s desíre, * and hast not denied him the re·quést of hís lips.
+2. Thou hast given hím his · heart’s desíre, * and hast not denied him the re·quést of hís lips.\selah
 3. For thou shalt prevent him with the blés·sings of góodness, * and shalt set a crown of pure góld · upon hís head.
 4. He asked life of thee; and thou gavest · hím a lóng life, * even for év·er and éver.
 5. His honour is great in · thý salvátion; * glory and great worship shalt thou · láy upón him.
@@ -343,7 +344,7 @@ The King shall rejoice ín thy · strength, O [[Lórd]]; * exceeding glad shall 
 13. Be thou exalted, [[Lord]], ín · thine own stréngth; * so we will sing, and · práise thy pówer.
 
 \psalterday{4}{Evening}
-\psalm{22}{Deus, Deus meus.}
+\psalm[To the chaunter upon the hind of the dawning, a Psalm of David.]{22}{Deus, Deus meus.}
 My God, my God, look upon me; why hast · thóu forsáken me? * and art so far from my health, and from the · wórds of mý complaint?
 2. O my God, I cry in the day-time, bút thou · hearest nót; * and in the night-season ál·so I táke no rest.
 3. And thou contín·uest hóly, * O thou wór·ship of Ísrael.
@@ -378,7 +379,7 @@ My God, my God, look upon me; why hast · thóu forsáken me? * and art so far f
 31. My · séed shall sérve him: * they shall be counted unto the Lord for a · génerátion.
 32. They shall come, and the heavens shall de·cláre his ríghteousness * unto a people that shall be born, · whóm the Lórd hath made.
 
-\psalm{23}{Dominus regit me.}
+\psalm[A Psalm of David.]{23}{Dominus regit me.}
 The [[Lord]] · ís my shépherd; * therefore can · Í lack nóthing.
 2. He shall feed me in · a gréen pásture, * and lead me forth beside the wá·ters of cómfort.
 3. He shall con·vért my sóul, * and bring me forth in the paths of righteousness, · fór his Náme’s sake.
@@ -388,19 +389,19 @@ The [[Lord]] · ís my shépherd; * therefore can · Í lack nóthing.
 
 
 \psalterday{5}{Morning}
-\psalm{24}{Domini est terra.}
+\psalm[A Psalm of David, in the first day of the Sabbath.]{24}{Domini est terra.}
 The earth is the [[Lord]]’s, and áll that · therein ís; * the compass of the world, and · théy that dwéll therein.
 2. For he hath founded ít up·on the séas, * and prepared · ít upón the floods.
 3. Who shall ascend into the híll · of the [[Lórd]]? * or who shall rise úp · in his hóly place?
 4. Even he that hath clean hands, ánd · a pure héart; * and that hath not lift up his mind unto vanity, nor sworn to de·céive his néighbour.
 5. He shall receive the bléssing · from the [[Lórd]], * and righteousness from the God of · hís salvátion.
-6. This is the generation of · thém that séek him; * even of them that seek thy · fáce, O Jácob.
+6. This is the generation of · thém that séek him; * even of them that seek thy · fáce, O Jácob.\selah
 7. Lift up your heads, O ye gates; and be ye lift up, ye éver·lasting dóors; * and the King of gló·ry shall cóme in.
 8. Who is the · Kíng of glóry? * it is the [[Lord]] strong and mighty, even the [[Lord]] mígh·ty in báttle.
 9. Lift up your heads, O ye gates; and be ye lift up, ye éver·lasting dóors; * and the King of gló·ry shall cóme in.
-10. Who is the · Kíng of glóry? * even the [[Lord]] of hosts, he is the · Kíng of glóry.
+10. Who is the · Kíng of glóry? * even the [[Lord]] of hosts, he is the · Kíng of glóry.\selah
 
-\psalm{25}{Ad te, Domine, levavi.}
+\psalm[Of David.]{25}{Ad te, Domine, levavi.}
 Unto thee, O [[Lord]], will I lift up my soul; my God, I have pút my · trust in thée: * O let me not be confounded, neither let mine enemies · tríumph óver me.
 2. For all they that hope in thee shall nót · be ashámed; * but such as transgress without a cause shall be pút · to confúsion.
 3. Shew mé thy · ways, O [[Lórd]], * and · téach me thý paths.
@@ -424,7 +425,7 @@ Unto thee, O [[Lord]], will I lift up my soul; my God, I have pút my · trust i
 21. Deliver Ísra·el, O Gód, * out of · áll his tróubles.
 
 
-\psalm{26}{Judica me, Domine.} 
+\psalm[A Psalm of David, before he was embalmed.]{26}{Judica me, Domine.} 
 Be thou my judge, O [[Lord]], for I have walked · ínnocéntly: * my trust hath been also in the [[Lord]], therefore · sháll I nót fall.
 2. Examine me, O · [[Lórd]], and próve me; * try out my · réins and mý heart.
 3. For thy loving-kindness is éver be·fore mine éyes; * and I will · wálk in thý truth.
@@ -485,7 +486,7 @@ Bring unto the [[Lord]], O ye mighty, bring young ráms un·to the [[Lórd]]; * 
 10. The [[Lord]] shall give strength un·tó his péople; * the [[Lord]] shall give his people the · bléssing óf peace.
 
 \psalterday{6}{Morning}
-\psalm{30}{Exaltabo te, Domine.}
+\psalm[A Psalm and song of the dedication of the house of David.]{30}{Exaltabo te, Domine.}
 I will magnify thee, O [[Lord]]; for thóu hast · set me úp, * and not made my foes to · tríumph óver me.
 2. O [[Lord]] my God, I críed · unto thée; * and · thóu hast héaled me.
 3. Thou, [[Lord]], hast brought my sóul · out of héll: * thou hast kept my life from them that go · dówn to thé pit.
@@ -501,7 +502,7 @@ I will magnify thee, O [[Lord]]; for thóu hast · set me úp, * and not made my
 13. Therefore shall every good man sing of thy praise · wíthout céasing. * O my God, I will give thanks unto · thée for éver.
 
 
-\psalm{31}{In te, Domine, speravi.}
+\psalm[To the chaunter, a Psalm of David.]{31}{In te, Domine, speravi.}
 In thee, O [[Lord]], have I put my trust; let me never be pút · to confúsion; * deliver me · ín thy ríghteousness.
 2. Bow · dówn thine éar to me; * make háste · to delíver me.
 3. And be thou my strong rock, and hóuse · of defénce, * that thou · máyest sáve me.
@@ -531,15 +532,15 @@ In thee, O [[Lord]], have I put my trust; let me never be pút · to confúsion;
 27. Be strong, and he shall estáb·lish your héart, * all ye that put your · trúst in thé [[Lord]].
 
 \psalterday{6}{Evening}
-\psalm{32}{Beati, quorum.}
+\psalm[An instruction of David.]{32}{Beati, quorum.}
 Blessed is he whose unrighteousness · ís forgíven, * and whose · sín is cóvered.
 2. Blessed is the man unto whom the [[Lord]] impú·teth no sín, * and in whose spirit · thére is nó guile.
 3. For whíle I · held my tóngue, * my bones consumed away through my dái·ly compláining.
-4. For thy hand is heavy upón me · day and níght, * and my moisture is like the · dróught in súmmer.
+4. For thy hand is heavy upón me · day and níght, * and my moisture is like the · dróught in súmmer.\selah
 5. I will acknowledge my sín · unto thée; * and mine unrighteousness · háve I nót hid.
-6. I said, I will confess my síns un·to the [[Lórd]]; * and so thou forgavest the wíck·edness óf my sin.
+6. I said, I will confess my síns un·to the [[Lórd]]; * and so thou forgavest the wíck·edness óf my sin.\selah
 7. For this shall every one that is godly make his prayer unto thee, in a time when thou máy·est be fóund; * but in the great water-floods they shall · nót come nígh him.
-8. Thou art a place to hide me in; thou shalt presérve · me from tróuble; * thou shalt compass me about with sóngs · of delíverance.
+8. Thou art a place to hide me in; thou shalt presérve · me from tróuble; * thou shalt compass me about with sóngs · of delíverance.\selah
 9. I will inform thee, and teach thee in the way whereín · thou shalt gó; * and I will gúide · thee with míne eye.
 10. Be ye not like to horse and mule, which have no · únderstánding; * whose mouths must be held with bit and bridle, lest they · fáll upón thee.
 11. Great plagues remain fór · the ungódly; * but whoso putteth his trust in the [[Lord]], mercy embraceth · hím on évery side.
@@ -568,7 +569,7 @@ Rejoice in the [[Lord]], · Ó ye ríghteous; * for it becometh well the júst �
 20. For our héart shall re·joice in hím; * because we have hoped · ín his hóly Name.
 21. Let thy merciful kindness, O [[Lórd]], be · upon ús, * like as we do · pút our trúst in thee.
 
-\psalm{34}{Benedicam Domino.}
+\psalm[Of David, when he changed his speach before Abimelech, which drove him away and he departed.]{34}{Benedicam Domino.}
 I will alway give thánks un·to the [[Lórd]]; * his praise shall ever · bé in mý mouth.
 2. My soul shall make her bóast · in the [[Lórd]]; * the humble shall hear there·óf, and bé glad.
 3. O práise the · [[Lord]] with mé, * and let us magnify his · Náme togéther.
@@ -595,7 +596,7 @@ I will alway give thánks un·to the [[Lórd]]; * his praise shall ever · bé i
 
 
 \psalterday{7}{Morning}
-\psalm{35}{Judica, Domine.}
+\psalm[Of David.]{35}{Judica, Domine.}
 Plead thou my cause, O [[Lord]], with · thém that stríve with me, * and fight thou against them that · fíght agáinst me.
 2. Lay hand upon the · shíeld and búckler, * and stand · úp to hélp me.
 3. Bring forth the spear, and stop the way against them that pér·secute mé: * say unto my soul, I am · thý salvátion.
@@ -625,7 +626,7 @@ Plead thou my cause, O [[Lord]], with · thém that stríve with me, * and fight
 27. Let them be glad and rejoice, that favour my · ríghteous déaling; * yea, let them say alway, Blessed be the [[Lord]], who hath pleasure in the prosperity · óf his sérvant.
 28. And as for my tongue, it shall be talking · óf thy ríghteousness, * and of thy praise · áll the dáy long.
 
-\psalm{36}{Dixit injustus.}
+\psalm[To the Chaunter, of David the servant of the Lord.]{36}{Dixit injustus.}
 My heart sheweth me the wickedness óf · the ungódly, * that there is no fear of · Gód befóre his eyes.
 2. For he flattereth himself ín · his own síght, * until his abominable · sín be fóund out.
 3. The words of his mouth are unrighteous, and fúll · of decéit: * he hath left off to behave himself wisely, · ánd to dó good.
@@ -642,7 +643,7 @@ My heart sheweth me the wickedness óf · the ungódly, * that there is no fear 
 
 
 \psalterday{7}{Evening}
-\psalm{37}{Noli æmulari.}
+\psalm[A Psalm of David.]{37}{Noli æmulari.}
 Fret not thyself because of · thé ungódly; * neither be thou envious against the · évil-dóers.
 2. For they shall soon be cut dówn · like the gráss, * and be withered even · ás the gréen herb.
 3. Put thou thy trust in the [[Lord]], ánd be · doing góod; * dwell in the land, and verily · thóu shalt bé fed.
@@ -710,24 +711,24 @@ Put me not to rebuke, O [[Lórd]], · in thine ánger; * neither chasten me in t
 21. Forsake me nót, O · [[Lord]] my Gód; * be · nót thou fár from me.
 22. Háste · thee to hélp me, * O Lord God of · mý salvátion.
 
-\psalm{39}{Dixi, custodiam.}
+\psalm[To the chaunter Jeduthun, a Psalm of David.]{39}{Dixi, custodiam.}
 I said, I will take héed · to my wáys, * that I of·fénd not ín my tongue.
 2. I will keep my mouth as it were · wíth a brídle, * while the ungód·ly is ín my sight.
 3. I held my tongue, · ánd spake nóthing: * I kept silence, yea, even from good words; but it was · páin and gríef to me.
 4. My heart was hot within me: and while I was thus musing · the fíre kíndled, * and at the last I · spáke with mý tongue:
 5. [[Lord]], let me know mine end, and the númber · of my dáys; * that I may be certified how · lóng I háve to live.
-6. Behold, thou hast made my days as it · wére a spán long, * and mine age is even as nothing in respect of thee; and verily every man living is alto·géther vánity.
+6. Behold, thou hast made my days as it · wére a spán long, * and mine age is even as nothing in respect of thee; and verily every man living is alto·géther vánity.\selah
 7. For man walketh in a vain shadow, and disquietéth him·self in váin; * he heapeth up riches, and cannot tell · whó shall gáther them.
 8. And now, Lord, whát · is my hópe? * truly my hope is · éven ín thee.
 9. Deliver me from all · míne offénces; * and make me not a rebuke un·tó the fóolish.
 10. I became dumb, and ópened · not my móuth; * for it · was thÿ dóing.
 11. Take thy plágue a·way from mé: * I am even consumed by the méans · of thy héavy hand.
-12. When thou with rebukes dost chasten man for sin, thou makest his beauty to consume away, like as it were a moth frét·ting a gárment: * every man therefore · ís but vánity.
+12. When thou with rebukes dost chasten man for sin, thou makest his beauty to consume away, like as it were a moth frét·ting a gárment: * every man therefore · ís but vánity.\selah
 13. Hear my prayer, O [[Lord]], and with thine ears consí·der my cálling; * hold not thy · péace at mý tears;
 14. For I am a stranger with thee, · ánd a sójourner, * as · áll my fáthers were.
 15. O spare me a little, that I may recóv·er my stréngth, * before I go hence, and · bé no móre seen.
 
-\psalm{40}{Expectans expectavi.}
+\psalm[To the chaunter, a Psalm of David.]{40}{Expectans expectavi.}
 I waited pátiently · for the [[Lórd]], * and he inclined unto me, and · héard my cálling.
 2. He brought me also out of the horrible pit, out of the · míre and cláy, * and set my feet upon the rock, and order·éd my góings.
 3. And he hath put a new sóng · in my móuth, * even a thanksgiving · únto óur God.
@@ -878,7 +879,7 @@ O clap your hands together, · áll ye péople: * O sing unto God with the · v�
 
 \psalm{48}{Magnus Dominus.} 
 Great is the Lord, and highly · tó be práised * in the city of our God, even up·ón his hóly hill.
-2. The hill of Syon is a fair place, and the jóy of · the whole éarth; * upon the north-side lieth the city of the great King; God is well known in her palaces as · a süre réfuge.
+2. The hill of Sion is a fair place, and the jóy of · the whole éarth; * upon the north-side lieth the city of the great King; God is well known in her palaces as · a süre réfuge.
 3. For lo, the kíngs · of the éarth * are gathered, and gone · bý togéther.
 4. They marvelled to · sée such thíngs; * they were astonished, and súd·denly cást down.
 5. Fear came there upon · thém, and sórrow, * as upon a woman · ín her trávail.
@@ -886,8 +887,8 @@ Great is the Lord, and highly · tó be práised * in the city of our God, even 
 7. Like as we have heard, so have we seen in the city of the [[Lord]] of hosts, in the cíty · of our Gód; * God upholdeth the · sáme for éver.
 8. We wait for thy loving-kínd·ness, O Gód, * in the mídst · of thy témple.
 9. O God, according to thy Name, so is thy praise untó · the world’s énd; * thy right hand is · fúll of ríghteousness.
-10. Let the mount Syon rejoice, and the daughters of Jú·dah be glád, * becáuse · of thy júdgements.
-11. Walk about Syon, and go · róund abóut her; * and · téll the tówers thereof.
+10. Let the mount Sion rejoice, and the daughters of Jú·dah be glád, * becáuse · of thy júdgements.
+11. Walk about Sion, and go · róund abóut her; * and · téll the tówers thereof.
 12. Mark well her bulwarks, set · úp her hóuses, * that ye may tell them · thát come áfter.
 13. For this God is our God for év·er and éver: * he shall be our · gúide untó death.
 
@@ -917,13 +918,13 @@ O hear ye this, · áll ye péople; * ponder it with your ears, all ye that · d
 
 
 \psalterday{10}{Morning}
-\psalm{50}{Deus deorum.}
+\psalm[A Psalm of Asaph.]{50}{Deus deorum.}
 The [[Lord]], even the most mighty · Gód, hath spóken, * and called the world, from the rising up of the sun unto the · góing dówn thereof.
-2. Out of Syon hath · Gód appéared * in · pérfect béauty.
+2. Out of Sion hath · Gód appéared * in · pérfect béauty.
 3. Our God shall come, and shall · nót keep sílence; * there shall go before him a consuming fire, and a mighty tempest shall be stirred up · róund abóut him.
 4. He shall call the héaven · from abóve, * and the earth, that he may · júdge his péople.
 5. Gather my saints to·géther únto me; * those that have made a covenant with · mé with sácrifice.
-6. And the heavens shall de·cláre his ríghteousness; * for · Gód is Júdge himself.
+6. And the heavens shall de·cláre his ríghteousness; * for · Gód is Júdge himself.\selah
 7. Hear, O my péople, and · I will spéak; * I myself will testify against thee, O Israel; for I am God, · éven thý God.
 8. I will not reprove thee because of thy sacrifices, or for · thý burnt-ófferings, * because they were not ál·way befóre me.
 9. I will take no bullock óut · of thine hóuse, * nor he-goat · óut of thý folds.
@@ -942,7 +943,8 @@ The [[Lord]], even the most mighty · Gód, hath spóken, * and called the world
 22. O consider this, yé that · forget Gód, * lest I pluck you away, and there be nóne · to delíver you.
 23. Whoso offereth me thanks and praise, he hó·noureth mé; * and to him that ordereth his conversation right will I shew the sal·vátion óf God.
 
-\psalm{51}{Miserere mei, Deus.}
+\label{psalm51}
+\psalm[To the chaunter, a Psalm of David, when the prophet Nathan came unto him, after he was gone in to Bathsabe.]{51}{Miserere mei, Deus.}
 Have mercy upon me, O God, after · thý great góodness; * according to the multitude of thy mercies do awáy · mine offénces.
 2. Wash me throughly · fróm my wíckedness, * and · cléanse me fróm my sin.
 3. For I knów·ledge my fáults, * and my sin is é·ver befóre me.
@@ -960,17 +962,17 @@ Have mercy upon me, O God, after · thý great góodness; * according to the mul
 15. Thou shalt ópen my · lips, O Lórd, * and my · móuth shall shéw thy praise.
 16. For thou desirest no sacrifice, élse · would I gíve it thee; * but thou delightest nót · in burnt-ófferings.
 17. The sacrifice of God is a · tróubled spírit: * a broken and contrite heart, O God, · shált thou nót despise.
-18. O be favourable and gracious · únto Sýon; * build thou the wálls · of Hierúsalem.
+18. O be favourable and gracious · únto Síon; * build thou the wálls · of Jerúsalem.
 19. Then shalt thou be pleased with the sacrifice of righteousness, with the burnt-offerings · ánd oblátions; * then shall they offer young bullocks up·ón thine áltar.
 
 
-\psalm{52}{Quid gloriaris?}
+\psalm[To the chaunter, an exhortation of David, when Doeg the Edomite came to Saul, and shewed him, saying: David is come to the house of Ahymelech.]{52}{Quid gloriaris?}
 Why boastest thou thy·sélf, thou týrant, * that thou · cánst do míschief;
 2. Whereas the góod·ness of Gód * endúr·eth yet dáily?
 3. Thy tongue imá·gineth wíckedness, * and with lies thou cuttest like · a shärp rásor.
-4. Thou hast loved unrighteousness · móre than góodness, * and to talk of líes · more than ríghteousness.
+4. Thou hast loved unrighteousness · móre than góodness, * and to talk of líes · more than ríghteousness.\selah
 5. Thou hast loved to speak all wórds that · may do húrt, * – · Ó thou fálse tongue.
-6. Therefore shall God destróy · thee for éver; * he shall take thee, and pluck thee out of thy dwelling, and root thee out of the lánd · of the líving.
+6. Therefore shall God destróy · thee for éver; * he shall take thee, and pluck thee out of thy dwelling, and root thee out of the lánd · of the líving.\selah
 7. The righteous also shall sée · this, and féar; * and shall · láugh him tó scorn;
 8. Lo, this is the man that took not Gód · for his stréngth; * but trusted unto the multitude of his riches, and strengthened himsélf · in his wíckedness.
 9. As for me, I am like a green olive-tree in the · hóuse of Gód; * my trust is in the tender mercy of God for év·er and éver.
@@ -978,34 +980,34 @@ Why boastest thou thy·sélf, thou týrant, * that thou · cánst do míschief;
 
 
 \psalterday{10}{Evening}
-\psalm{53}{Dixit insipiens.}
+\psalm[To the chaunter upon Mahalath, an instruction of David.]{53}{Dixit insipiens.}
 The foolish body hath sáid · in his héart, * – · Thére is nó God.
 2. Corrupt are they, and become abominable · ín their wíckedness; * there is · nóne that dóeth good.
 3. God looked down from heaven upon the chíl·dren of mén, * to see if there were any that would understand, · and sëek áfter God.
 4. But they are all gone out of the way, they are altogether be·cóme abóminable; * there is also none that do·eth göod, nó not one.
 5. Are not they without understanding, · thát work wíckedness, * eating up my people as if they would eat bread? they have not cáll·ed upón God.
 6. They were afraid · whére no féar was; * for God hath broken the bones of him that besieged thee; thou hast put them to confusion, because Gód · hath despísed them.
-7. O that the salvation were given unto Israel · óut of Sýon! * O that the Lord would deliver his people óut · of captívity!
+7. O that the salvation were given unto Israel · óut of Síon! * O that the Lord would deliver his people óut · of captívity!
 8. Then should Já·cob rejóice, * and Israel · shóuld be ríght glad.
 
 
-\psalm{54}{Deus, in nomine.}
+\psalm[To the chaunter in melodies, an instruction of David, when the Zephites came said unto Saul: hath not David hid himself among us?]{54}{Deus, in nomine.}
 Save me, O God, · fór thy Náme’s sake, * and avénge · me in thy strength.
 2. Hear my · práyer, O Gód, * and hearken unto the · wórds of mý mouth.
-3. For strangers are risen · úp agáinst me; * and tyrants, which have not God before their eyes, seek · áfter mý soul.
+3. For strangers are risen · úp agáinst me; * and tyrants, which have not God before their eyes, seek · áfter mý soul.\selah
 4. Behold, Gód · is my hélper; * the Lord is with thém · that uphóld my soul.
 5. He shall reward evil un·tó mine énemies: * destroy thou · thém in thý truth.
 6. An offering of a free heart will I give thee, and práise thy · Name, O [[Lórd]]; * because it is so · cómfortáble.
 7. For he hath delivered me out of · áll my tróuble; * and mine eye hath seen his desire up·ón mine énemies.
 
-\psalm{55}{Exaudi, Deus.}
+\psalm[To the chaunter in melodies, an instruction of David.]{55}{Exaudi, Deus.}
 Hear my · práyer, O Gód, * and hide not thyself from · mý petítion.
 2. Take heed unto · mé, and héar me, * how I mourn in my prayer, · ánd am véxed.
 3. The enemy crieth so, and the ungodly cómeth · on so fást; * for they are minded to do me some mischief; so maliciously are they · sét agáinst me.
 4. My heart is disquíet·ed withín me, * and the fear of death is fáll·en upón me.
 5. Fearfulness and trembling are · cóme upón me, * and an horrible dread hath · óverwhélmed me.
 6. And I said, O that I had wíngs · like a dóve! * for then would I flee a·wáy, and bé at rest.
-7. Lo, then would I get me a·wáy far óff, * and remáin · in the wílderness.
+7. Lo, then would I get me a·wáy far óff, * and remáin · in the wílderness.\selah
 8. I would make háste · to escápe, * because of the stormy · wínd and témpest.
 9. Destroy their tongues, O Lórd, · and divíde them; * for I have spied unrighteousness and strífe · in the cíty.
 10. Day and night they go about withín the ·walls thereóf: * mischief also and sorrow are · ín the mídst of it.
@@ -1018,7 +1020,7 @@ Hear my · práyer, O Gód, * and hide not thyself from · mý petítion.
 17. As for me, I will cáll · upon Gód, * and the · [[Lórd]] shall sáve me.
 18. In the evening, and morning, and at noonday will I práy, · and that ínstantly; * and · hé shall héar my voice.
 19. It is he that hath delivered my soul in peace from the battle that · wás agáinst me; * for there were · mány wíth me.
-20. Yea, even God, that endureth for ever, shall héar me, and · bring them dówn; * for they will not · túrn, nor féar God.
+20. Yea, even God, that endureth for ever, shall héar me, and · bring them dówn; \selah * for they will not · túrn, nor féar God.
 21. He laid his hands upon such as · bé at péace with him, * and he · bráke his cóvenant.
 22. The words of his mouth were softer than butter, having wár · in his héart; * his words were smoother than oil, and yet · bé they véry swords.
 23. O cast thy burden upon the [[Lord]], and · hé shall nóurish thee, * and shall not suffer the righteous to · fáll for éver.
@@ -1026,7 +1028,7 @@ Hear my · práyer, O Gód, * and hide not thyself from · mý petítion.
 25. The blood-thirsty and deceitful men shall not líve out · half their dáys: * nevertheless, my trust shall · bé in thée, O Lord.
 
 \psalterday{11}{Morning}
-\psalm{56}{Miserere mei, Deus.}
+\psalm[To the chaunter upon the dove of him that was domme in a farre countreye: the badge (or arms) of David, when the Philistines took him in Geth.]{56}{Miserere mei, Deus.}
 Be merciful unto me, O God, for man goeth abóut · to devóur me; * he is daily fíght·ing, and tróubling me.
 2. Mine enemies are daily in hand to swál·low me úp; * for they be many that fight against me, O · thóu Most Híghest.
 3. Nevertheless, though I am sóme·time afráid, * yet put · Í my trúst in thee.
@@ -1041,14 +1043,14 @@ Be merciful unto me, O God, for man goeth abóut · to devóur me; * he is daily
 12. Unto thee, O Gód, will I · pay my vóws; * unto thée · will I gíve thanks.
 13. For thou hast delivered my soul from death, and my · féet from fálling, * that I may walk before God in the líght · of the líving.
 
-\psalm{57}{Miserere mei, Deus.}
+\psalm[To the chaunter destroy not: The badges or arms of David, when he fled from Saul into the cave.]{57}{Miserere mei, Deus.}
 Be merciful unto me, O God, be merciful unto me; for my soul trúst·eth in thée; * and under the shadow of thy wings shall be my refuge, until this tyran·ný be óver-past.
 2. I will call únto the · Most High Gód, * even unto the God that shall perform the cáuse · which I háve in hand.
-3. He shall · sénd from héaven, * and save me from the reproof of hím · that would éat me up.
+3. He shall · sénd from héaven, * and save me from the reproof of hím · that would éat me up.\selah
 4. God shall send forth his mér·cy and trúth: * my soul is · amöng líons.
 5. And I lie even among the children of mén, that are · set on fíre, * whose teeth are spears and arrows, and their · tóngue a shárp sword.
 6. Set up thyself, O God, a·bóve the héavens; * and thy glory · aböve áll the earth.
-7. They have laid a net for my feet, and préssed · down my sóul; * they have digged a pit before me, and are fallen into the · mídst of ít themselves.
+7. They have laid a net for my feet, and préssed · down my sóul; * they have digged a pit before me, and are fallen into the · mídst of ít themselves.\selah
 8. My heart is fixed, O God, my · héart is fíxed; * I will · síng, and gíve praise.
 9. Awake up, my glory; a·wáke, lute and hárp: * I myself will a·wáke right éarly.
 10. I will give thanks unto thee, O Lord, a·móng the péople; * and I will sing unto thee a·móng the nátions.
@@ -1056,7 +1058,7 @@ Be merciful unto me, O God, be merciful unto me; for my soul trúst·eth in thé
 12. Set up thyself, O God, a·bóve the héavens; * and thy glory · aböve áll the earth.
 
 
-\psalm{58}{Si vere utique.}
+\psalm[To the chaunter Destroy not. The badge or arms of David.]{58}{Si vere utique.}
 Are your minds set upon righteousness, O ye · cóngregátion? * and do ye judge the thing that is right, · Ó ye sóns of men?
 2. Yea, ye imagine mischief in your héart up·on the éarth, * and your hands · déal with wíckedness.
 3. The ungodly are froward, even fróm their · mother’s wómb; * as soon as they are born, they go a·stráy, and spéak lies.
@@ -1070,12 +1072,12 @@ Are your minds set upon righteousness, O ye · cóngregátion? * and do ye judge
 
 
 \psalterday{11}{Evening}
-\psalm{59}{Eripe me de inimicis.}
+\psalm[To the chaunter: destroy not. The badge or arm of David, when Saul sent and they did watch the house to kill him.]{59}{Eripe me de inimicis.}
 Deliver me from mine éne·mies, O Gód; * defend me from them that rise · úp agáinst me.
 2. O deliver me from the wícked dóers, * and save me from · the blöod-thírsty men.
 3. For lo, they lie wáiting · for my sóul; * the mighty men are gathered against me, without any offence or · fáult of mé, O [[Lord]].
 4. They run and prepare themsélves with·out my fáult; * arise thou therefore to · hélp me, ánd behold.
-5. Stand up, O [[Lord]] God of hosts, thou God of Israel, to visit · áll the héathen, * and be not merciful unto them that offend of ma·lícious wíckedness.
+5. Stand up, O [[Lord]] God of hosts, thou God of Israel, to visit · áll the héathen, * and be not merciful unto them that offend of ma·lícious wíckedness.\selah
 6. They go to and fro · ín the évening, * they grin like a dog, and run about · thróugh the cíty.
 7. Behold, they speak with their mouth, and swórds are · in their líps; * – · – for whó doth hear?
 8. But thou, O [[Lord]], shalt have them · ín derísion, * and thou shalt laugh all the · héathen tó scorn.
@@ -1083,17 +1085,17 @@ Deliver me from mine éne·mies, O Gód; * defend me from them that rise · úp 
 10. God sheweth me his · góodness plénteously; * and God shall let me see my desire up·ón mine énemies.
 11. Slay them not, lest my péo·ple forgét it; * but scatter them abroad among the people, and put them down, · O Lörd, óur defence.
 12. For the sin of their mouth, and for the words of their lips, they shall be táken · in their príde: * and why? their preaching is of · cúrsing ánd lies.
-13. Consume them in thy wrath, consume them, that · théy may pérish; * and know that it is God that ruleth in Jacob, and unto the · énds of thé world.
+13. Consume them in thy wrath, consume them, that · théy may pérish; * and know that it is God that ruleth in Jacob, and unto the · énds of thé world.\selah
 14. And in the evening théy · will retúrn, * grin like a dog, and will go a·bóut the cíty.
 15. They will run hére and · there for méat, * and grudge if they be not · sátisfíed.
 16. As for me, I will sing of thy power, and will praise thy mercy betímes · in the mórning; * for thou hast been my defence and refuge in the dáy · of my tróuble.
 17. Unto thee, O my stréngth, · will I síng; * for thou, O God, art my refuge, and my · mércifúl God.
 
-\psalm{60}{Deus, repulisti nos.}
+\psalm[To the chaunter, upon the rose of witness, the badge or armes of David, for to teach: when he faught against Mesopotamia, and Syria of Zoba: and when Joab turned back, and slew twelve thousand Edomites, in the salt valley.]{60}{Deus, repulisti nos.}
 O God, thou hast cast us out, and scáttered · us abróad; * thou hast also been displeased; O turn thee · únto ús again.
 2. Thou hast moved the lánd, · and divíded it: * heal the sores thereof, · fór it sháketh.
 3. Thou hast shewed thy péople · heavy thíngs; * thou hast given us a · drínk of déadly wine.
-4. Thou hast given a token for · súch as féar thee, * that they may triumph be·cáuse of thé truth.
+4. Thou hast given a token for · súch as féar thee, * that they may triumph be·cáuse of thé truth.\selah
 5. Therefore were thy belóv·ed delívered; * help me with thy right · hánd, and héar me.
 
 6. God hath spoken in his holiness, I will rejoice, ánd · divide Sýchem, * and mete out the vál·ley of Súccoth.
@@ -1104,11 +1106,11 @@ O God, thou hast cast us out, and scáttered · us abróad; * thou hast also bee
 11. O be thou our · hélp in tróuble; * for váin · is the hélp of man.
 12. Through God will wé · do great ácts; * for it is he that shall tread · dówn our énemies.
 
-\psalm{61}{Exaudi, Deus.}
+\psalm[To the chaunter in the melodies of David.]{61}{Exaudi, Deus.}
 Hear my crý·ing, O Gód, * give ear · únto mý prayer.
 2. From the ends of the earth will I · cáll upón thee, * when my héart · is in héaviness.
 3. O set me up upon the rock that is hígh·er than Í; * for thou hast been my hope, and a strong tower for me a·gáinst the énemy.
-4. I will dwell in thy taberná·cle for éver, * and my trust shall be under the có·vering óf thy wings.
+4. I will dwell in thy taberná·cle for éver, * and my trust shall be under the có·vering óf thy wings.\selah
 5. For thou, O Lord, hast héard · my desíres, * and hast given an heritage unto · thóse that féar thy Name.
 6. Thou shalt grant the Kíng · a long lífe, * that his years may endure throughout all · génerátions.
 7. He shall dwell before · Gód for éver: * O prepare thy loving mercy and faithfulness, that they · máy presérve him.
@@ -1161,7 +1163,7 @@ Hear my voice, O Gód, · in my práyer; * preserve my life from féar · of the
 
 \psalterday{12}{Evening}
 \psalm{65}{Te decet hymnus.}
-Thou, O God, art práis·ed in Sýon; * and unto thee shall the vow be performed · ín Jerúsalem.
+Thou, O God, art práis·ed in Síon; * and unto thee shall the vow be performed · ín Jerúsalem.
 2. Thou that héar·est the práyer, * unto · thée shall áll flesh come.
 3. My misdeeds pre·váil agáinst me: * O be thou merciful · únto óur sins.
 4. Blessed is the man whom thou choosest, and recéivest · unto thée: * he shall dwell in thy court, and shall be satisfied with the pleasures of thy house, even of thy · hóly témple.
@@ -1281,7 +1283,7 @@ Sáve · me, O Gód; * for the waters are come in, even · únto mý soul.
 33. The humble shall consider thís, · and be glád: * seek ye after God, · ánd your sóul shall live.
 34. For the [[Lord]] héar·eth the póor, * and despiseth · nót his prísoners.
 35. Let heaven · and éarth práise him: * the sea, and all that · móveth thérein.
-36. For God will save Syon, and build the cí·ties of Iúdah, * that men may dwell there, and have it · ín posséssion.
+36. For God will save Sion, and build the cí·ties of Júdah, * that men may dwell there, and have it · ín posséssion.
 37. The posterity also of his servants · sháll inhérit it; * and they that love his · Náme shall dwéll therein.
 
 \psalm{70}{Deus in adjutorium.}
@@ -1318,7 +1320,7 @@ In thee, O [[Lord]], have I put my trust; let me never be pút · to confúsion,
 21. My lips will be fain when I síng · unto thée; * and so will my soul whom thou · hást delívered.
 22. My tongue also shall talk of thy righteousness áll · the day lóng; * for they are confounded and brought unto shame that seek to · dó me évil.
 
-\psalm{72}{Deus, judicium.}
+\psalm[A Psalm for Salomon.]{72}{Deus, judicium.}
 Give the King thy júdge·ments, O Gód, * and thy righteousness un·tó the Kíng’s son.
 2. Then shall he judge thy people accórding · unto ríght, * – · ánd defénd the poor.
 3. The mountains álso · shall bring péace, * and the little hills righteousness ún·to the péople.
@@ -1339,10 +1341,11 @@ Give the King thy júdge·ments, O Gód, * and thy righteousness un·tó the Kí
 18. Blessed be the Lord God, even the · Gód of Ísrael, * which only · dóeth wóndrous things;
 19. And blessed be the Name of his majes·tý for éver: * and all the earth shall be filled with his majes·tý. Amén, Amen.
 
+%¶ Here end the prayers of David the son of Jesse.
 
 %<[[Book III]]>
 \psalterday{14}{Evening}
-\psalm{73}{Quam bonus Israel!}
+\psalm[A Psalm of Asaph]{73}{Quam bonus Israel!}
 Truly God is loving · únto Ísrael: * even unto such as are · óf a cléan heart.
 2. Nevertheless, my féet were · almost góne, * my tréad·ings had wéll-nigh slipt.
 3. And why? I was grieved · át the wícked: * I do also see the ungodly in · súch prospérity.
@@ -1369,12 +1372,12 @@ Truly God is loving · únto Ísrael: * even unto such as are · óf a cléan he
 24. Whom have I in héa·ven but thée? * and there is none upon earth that I desire in compá·rison óf thee.
 25. My flesh and · my héart fáileth; * but God is the strength of my heart, and my pór·tion for éver.
 26. For lo, they that forsake · thée shall pérish; * thou hast destroyed all them that commit fornicá·tion agáinst thee.
-27. But it is good for me to hold me fast by God, to put my trúst in · the Lord [[Gód]], * and to speak of all thy works in the gates of the dáugh·ter of Sýon.
+27. But it is good for me to hold me fast by God, to put my trúst in · the Lord [[Gód]], * and to speak of all thy works in the gates of the dáugh·ter of Síon.
 
-\psalm{74}{Ut quid, Deus?}
+\psalm[An instruction of Asaph]{74}{Ut quid, Deus?}
 O God, wherefore art thou absent fróm · us so lóng? * why is thy wrath so hot against the shéep · of thy pásture?
 2. O think upon thy · cóngregátion, * whom thou hast purchased and re·déemed óf old.
-3. Think upon the tribe of · thíne inhéritance, * and mount Syon, where·ín thou hást dwelt.
+3. Think upon the tribe of · thíne inhéritance, * and mount Sion, where·ín thou hást dwelt.
 4. Lift up thy feet, that thou mayest utterly destroy év·ery énemy, * which hath done evil in thy · sánctuáry.
 5. Thine adversaries roar in the midst of thy · cóngregátions, * and set up their bán·ners for tókens.
 6. He that hewed timber afore óut of · the thick trées, * was known to bring it to an · éxcellént work.
@@ -1399,7 +1402,7 @@ O God, wherefore art thou absent fróm · us so lóng? * why is thy wrath so hot
 
 
 \psalterday{15}{Morning}
-\psalm{75}{Confitebimur tibi.}
+\psalm[To the chaunter, Destroy not. A Psalm and song of Asaph.]{75}{Confitebimur tibi.}
 Unto thee, O Gód, do · we give thánks; * yea, unto thee · dó we gíve thanks.
 2. Thy Name álso · is so nígh; * and that do thy · wóndrous wórks declare.
 3. When I receive the · cóngregátion, * I shall judge ac·córding únto right.
@@ -1413,36 +1416,36 @@ Unto thee, O Gód, do · we give thánks; * yea, unto thee · dó we gíve thank
 11. But I will talk of the · Gód of Jácob, * and práise · him for éver.
 12. All the horns of the ungodly álso · will I bréak, * and the horns of the righteous shall · bé exálted.
 
-\psalm{76}{Notus in Judæa.}
+\psalm[To the chaunter, in melodies, a Psalm and song of Asaph]{76}{Notus in Judæa.}
 In Jéwry · is God knówn; * his Name is · gréat in Ísrael.
-2. At Salem is his · tábernácle, * and his dwél·ling in Sýon.
-3. There brake he the árrows · of the bów, * the shield, the swórd, · and the báttle.
+2. At Salem is his · tábernácle, * and his dwél·ling in Síon.
+3. There brake he the árrows · of the bów, * the shield, the swórd, · and the báttle.\selah
 4. Thou art of more hó·nour and míght, * than the hílls · of the róbbers.
 5. The proud are robbed, théy have · slept their sléep; * and all the men whose hands were mighty · have föund nóthing.
 6. At thy rebuke, O · Gód of Jácob, * both the chariot and · hórse are fállen.
 7. Thou, even thou art · tó be féared; * and who may stand in thy sight when · thóu art ángry?
 8. Thou didst cause thy judgement to be · héard from héaven; * the earth · trémbled, ánd was still,
-9. When God a·róse to júdgement, * and to help all the · méek upón earth.
+9. When God a·róse to júdgement, * and to help all the · méek upón earth.\selah
 10. The fierceness of man shall túrn · to thy práise; * and the fierceness of · thém shalt thóu refrain.
 11. Promise unto the [[Lord]] your God, and keep it, all ye that are · róund abóut him; * bring presents unto him that óught · to be féared.
 12. He shall refrain the spí·rit of prínces, * and is wonderful among the · kíngs of thé earth.
 
-\psalm{77}{Voce mea ad Dominum.}
+\psalm[To the chaunter, for Jeduthun a Psalm of Asaph.]{77}{Voce mea ad Dominum.}
 I will cry unto Gód · with my vóice; * even unto God will I cry with my voice, and he shall · héarken únto me.
 2. In the time of my tróuble I · sought the Lórd: * my sore ran and ceased not in the night-season; my soul re·fúsed cómfort.
-3. When I am in heaviness, I will thínk · upon Gód; * when my heart is véx·ed, I wíll complain.
+3. When I am in heaviness, I will thínk · upon Gód; * when my heart is véx·ed, I wíll complain.\selah
 4. Thou holdest · míne eyes wáking: * I am so feeble, · thát I cánnot speak.
 5. I have consideréd the · days of óld, * and the · yéars that áre past.
 6. I call to remém·brance my sóng, * and in the night I commune with mine own heart, and search · óut my spírits.
 7. Will the Lord absent him·sélf for éver? * and will he be no · móre intréated?
 8. Is his mercy clean · góne for éver? * and is his promise come utterly to an · énd for évermore?
-9. Hath God forgotten · tó be grácious? * and will he shut up his loving-kindness · ín displéasure?
+9. Hath God forgotten · tó be grácious? * and will he shut up his loving-kindness · ín displéasure?\selah
 10. And I said, It is mine · ówn infírmity; * but I will remember the years of the right hand of · the Möst Híghest.
 11. I will remember the wórks · of the [[Lórd]], * and call to mind thy wón·ders of óld time.
 12. I will think álso of · all thy wórks, * and my talking shall bé · of thy dóings.
 13. Thy way, O · Gód, is hóly: * who is so great a · Gód as óur God?
 14. Thou art the God that · dóeth wónders, * and hast declared thy power a·móng the péople.
-15. Thou hast mightily deliver·éd thy péople, * even the sons of Já·cob and Jóseph.
+15. Thou hast mightily deliver·éd thy péople, * even the sons of Já·cob and Jóseph.\selah
 16. The waters saw thee, O God, the waters sáw thee, and · were afráid; * the depths ál·so were tróubled.
 17. The clouds poured out water, · the áir thúndered, * and thine · árrows wént abroad.
 18. The voice of thy thunder was héard · round abóut: * the lightnings shone upon the ground; the earth was móv·ed, and shóok withal.
@@ -1512,15 +1515,15 @@ Hear my law, · Ó my péople, * incline your ears unto the · wórds of mý mou
 58. But turned their backs, and fell away like · théir forefáthers; * starting aside · líke a bróken bow.
 59. For they grieved him with · théir hill-áltars, * and provoked him to displeasure · wíth their ímages.
 60. When God héard this, · he was wróth, * and took sore displéa·sure at Ísrael.
-61. So that he forsook the taberná·cle in Sýlo, * even the tent that he had pítch·ed amóng men.
+61. So that he forsook the taberná·cle in Sílo, * even the tent that he had pítch·ed amóng men.
 62. He delivered their power ín·to captívity, * and their beauty into the · énemíes’ hand.
 63. He gave his people over also ún·to the swórd, * and was wroth with · hís inhéritance.
 64. The fire consú·med their yóung men, * and their maidens were not gív·en to márriage.
 65. Their priests were sláin · with the swórd, * and there were no widows to make · lámentátion.
 66. So the Lord awaked as óne · out of sléep, * and like a giant re·fréshed wíth wine.
 67. He smote his enemies ín the · hinder párts, * and put them to a per·pétuál shame.
-68. He refused the taberná·cle of Jóseph, * and chose not the · tríbe of Éphraym;
-69. But chose the · tríbe of Iúdah, * even the hill of Syon · whích he lóved.
+68. He refused the taberná·cle of Jóseph, * and chose not the · tríbe of Éphraim;
+69. But chose the · tríbe of Júdah, * even the hill of Sion · whích he lóved.
 70. And there he built his tém·ple on hígh, * and laid the foundation of it like the ground which he hath · máde contínually.
 71. He chose David ál·so his sérvant, * and took him awáy · from the shéep-folds.
 72. As he was following the ewes great with yóung · ones he tóok him, * that he might feed Jacob his people, and Israel · hís inhéritance.
@@ -1549,7 +1552,7 @@ O God, the heathen are come into · thíne inhéritance; * thy holy temple have
 
 \psalm{80}{Qui regis Israel.}
 Hear, O thou Shepherd of Israel, thou that leadest Jóseph · like a shéep; * shew thyself also, thou that sittest up·ón the Chérubyn.
-2. Before Ephraym, Beniamin, · ánd Manásses, * stir up thy strength, and · cóme, and hélp us.
+2. Before Ephraym, Benjamin, · ánd Manásses, * stir up thy strength, and · cóme, and hélp us.
 3. Túrn us a·gain, O Gód; * shew the light of thy countenance, and · wé shall bé whole.
 4. O [[Lórd]] · God of hósts, * how long wilt thou be angry with thy péo·ple that práyeth?
 5. Thou feedest them wíth the · bread of téars, * and givest them plenteous·néss of téars to drink.
@@ -1627,7 +1630,7 @@ O how amiable · áre thy dwéllings, * – · – thou [[Lórd]] of hosts!
 4. Blessed are they that dwéll · in thy hóuse; * they will be · álway práising thee.
 5. Blessed is the man whose stréngth · is in thée; * in whose · héart are thý ways.
 6. Who going through the vale of misery úse it · for a wéll; * and the pools are fíll·ed with wáter.
-7. They will gó from · strength to stréngth, * and unto the God of gods appeareth every one of · thém in Sýon.
+7. They will gó from · strength to stréngth, * and unto the God of gods appeareth every one of · thém in Síon.
 8. O [[Lord]] God of hósts, · hear my práyer; * hearken, O · Gód of Jácob.
 9. Behold, O Gód · our defénder, * and look upon the face of · thíne Anóinted.
 10. For one dáy · in thy cóurts * is better · thán a thóusand.
@@ -1663,7 +1666,7 @@ Bow down thine ear, O · [[Lórd]], and héar me; * for I am póor, · and in m�
 6. Give ear, [[Lord]], ún·to my práyer, * and ponder the voice of my · húmble désires.
 7. In the time of my trouble I will · cáll upón thee; * – · fór thou héarest me.
 8. Among the gods there is none like únto · thee, O Lórd; * there is not one that can · dó as thóu doest.
-9. All nations whom thou hadst made shall come and wórship · thee, O Lórd; * and shall gló·rify thý Name.
+9. All nations whom thou hast made shall come and wórship · thee, O Lórd; * and shall gló·rify thý Name.
 10. For thou art great, and dóest · wondrous thíngs: * – · thóu art Gód alone.
 11. Teach me thy way, O [[Lord]], and I will wálk · in thy trúth: * O knit my heart unto thee, that · Í may féar thy Name.
 12. I will thank thee, O Lord my Gód, with · all my héart; * and will praise thy · Náme for évermore.
@@ -1675,11 +1678,11 @@ Bow down thine ear, O · [[Lórd]], and héar me; * for I am póor, · and in m�
 
 
 \psalm{87}{Fundamenta ejus.}
-Her foundations are upón the · holy hílls: * the [[Lord]] loveth the gates of Syon more than all the dwéll·ings of Jácob.
+Her foundations are upón the · holy hílls: * the [[Lord]] loveth the gates of Sion more than all the dwéll·ings of Jácob.
 2. Very excellent things are spó·ken of thée, * thou · cíty óf God.
 3. I will think upon Rá·hab and Bábylon, * with · thém that knów me.
 4. Behold ye the Phí·listines álso; * and they of Tyre, with the Morians; lo, · thére was hé born.
-5. And of Syon it shall be reported that · hé was bórn in her; * and the most · Hígh shall stáblish her.
+5. And of Sion it shall be reported that · hé was bórn in her; * and the most · Hígh shall stáblish her.
 6. The [[Lord]] shall rehearse it, when he writeth · úp the péople; * that · hé was bórn there.
 7. The singers also and trumpeters sháll · he rehéarse: * All my fresh · spríngs shall bé in thee.
 
@@ -1761,7 +1764,7 @@ My song shall be alway of the loving-kíndness · of the [[Lórd]]; * with my mo
 
 %<[[Book IV]]>
 \psalterday{18}{Morning}
-\psalm{90}{Domine, refugium.}
+\psalm[A prayer of Moses the man of God.]{90}{Domine, refugium.}
 Lord, thou hast · béen our réfuge, * from one generation · tó anóther.
 2. Before the mountains were brought forth, or ever the earth and the · wórld were máde, * thou art God from everlasting, and · wórld withóut end.
 3. Thou turnest mán · to destrúction; * again thou sayest, Come again, ye · chíldren óf men.
@@ -1798,7 +1801,7 @@ Whoso dwelleth under the defénce of · the Most Hígh, * shall abide under the 
 15. He shall call upon me, and · Í · will héar him; * yea, I am with him in trouble; I will deliver him, and bríng · him to hónour.
 16. With long life will I · sátisfý him, * and shew him · mý salvátion.
 
-\psalm{92}{Bonum est confiteri.}
+\psalm[A Psalm and song for the Sabbath day.]{92}{Bonum est confiteri.}
 It is a good thing to give thánks un·to the [[Lórd]], * and to sing praises unto thy Name, · Ó most Híghest;
 2. To tell of thy loving-kindness early · ín the mórning, * and of thy truth in · the nïght-séason;
 3. Upon an instrument of ten strings, ánd up·on the lúte; * upon a loud instrument, · ánd upón the harp.
@@ -1888,7 +1891,7 @@ The [[Lord]] is King, the éarth · may be glád thereof; * yea, the multitude o
 5. The hills melted like wax at the présence · of the [[Lórd]]; * at the presence of the Lórd · of the whóle earth.
 6. The heavens have declár·ed his ríghteousness, * and all the people have · séen his glóry.
 7. Confounded be all they that worship carved images, and that delíght · in vain góds: * wor·ship hïm, áll ye gods.
-8. Syon heard of it, · ánd rejóiced; * and the daughters of Judah were glad, because of thy · júdgements, Ó [[Lord]].
+8. Sion heard of it, · ánd rejóiced; * and the daughters of Judah were glad, because of thy · júdgements, Ó [[Lord]].
 9. For thou, [[Lord]], art higher than áll that are · in the éarth: * thou art exalted fár · above áll gods.
 10. O ye that love the [[Lord]], see that ye hate the thíng · which is évil; * the Lord preserveth the souls of his saints; he shall deliver them from the hand óf · the ungódly.
 11. There is sprung up a líght · for the ríghteous, * and joyful gladness for such as · are trüe-héarted.
@@ -1909,7 +1912,7 @@ O sing unto the · [[Lórd]] a néw song; * for he hath done · márvellóus thi
 
 \psalm{99}{Dominus regnavit.}
 The [[Lord]] is King, be the people never · só unpátient; * he sitteth between the cherubims, be the earth never · só unquíet.
-2. The [[Lord]] is · gréat in Sýon, * and high a·bóve all péople.
+2. The [[Lord]] is · gréat in Síon, * and high a·bóve all péople.
 3. They shall give thanks ún·to thy Náme, * which is great, wonder·fúl, and hóly.
 4. The King’s power loveth judgement; thou hast pre·páred équity, * thou hast executed judgement and righteous·néss in Jácob.
 5. O magnify the · [[Lórd]] our Gód, * and fall down before his footstool, for · hé is hóly.
@@ -1942,7 +1945,7 @@ My song shall be of mér·cy and júdgement; * unto thee, O · [[Lórd]], will �
 
 
 \psalterday{20}{Morning}
-\psalm{102}{Domine, exaudi.}
+\psalm[A prayer of the affiyct, when he hath an heavy heart, and poureth out his complaint before the Lord.]{102}{Domine, exaudi.}
 Hear my · práyer, O [[Lórd]], * and let my crý·ing come únto thee.
 2. Hide not thy face from me in the tíme · of my tróuble; * incline thine ear unto me when I call; O héar · me, and thát right soon.
 3. For my days are consúmed a·way like smóke, * and my bones are burnt up as it · wére a fírebrand.
@@ -1955,15 +1958,15 @@ Hear my · práyer, O [[Lórd]], * and let my crý·ing come únto thee.
 10. And that because of thine indigná·tion and wráth; * for thou hast taken me · úp, and cást me down.
 11. My days are gone · líke a shádow, * and I am wí·thered líke grass.
 12. But thou, O [[Lord]], shalt en·dúre for éver, * and thy remembrance throughout all · génerátions.
-13. Thou shalt arise, and have mercy · úpon Sýon; * for it is time that thou have mercy upon her, · yéa, the tíme is come.
+13. Thou shalt arise, and have mercy · úpon Síon; * for it is time that thou have mercy upon her, · yéa, the tíme is come.
 14. And why? thy servants thínk up·on her stónes, * and it pitieth them to · sée her ín the dust.
 15. The heathen shall féar thy · Name, O [[Lórd]]; * and all the kings of the · éarth thy májesty;
-16. When the [[Lord]] shall · búild up Sýon, * and when his · glóry sháll appear;
+16. When the [[Lord]] shall · búild up Síon, * and when his · glóry sháll appear;
 17. When he turneth him unto the prayer of the · póor déstitute, * and despís·eth not théir desire.
 18. This shall be written for thóse · that come áfter, * and the people which shall be · bórn shall práise the [[Lord]].
 19. For he hath looked down from his · sánctuáry; * out of the heaven did the · [[Lórd]] behóld the earth;
 20. That he might hear the mournings of such as are · ín captívity, * and deliver the children ap·póinted únto death;
-21. That they may declare the Name of the · [[Lórd]] in Sýon, * and his worship · át Jerúsalem;
+21. That they may declare the Name of the · [[Lórd]] in Síon, * and his worship · át Jerúsalem;
 22. When the people are gáther·ed togéther, * and the kingdoms ál·so, to sérve the [[Lord]].
 23. He brought down my stréngth · in my jóurney, * and shórt·ened mý days.
 24. But I said, O my God, take me not away in the mídst · of mine áge; * as for thy years, they endure throughout all · génerátions.
@@ -1973,7 +1976,7 @@ Hear my · práyer, O [[Lórd]], * and let my crý·ing come únto thee.
 28. The children of thy servants · sháll contínue, * and their seed shall stand · fást in thý sight.
 
 
-\psalm{103}{Benedic, anima mea.}
+\psalm[Of David.]{103}{Benedic, anima mea.}
 Praise the [[Lórd]], · O my sóul; * and all that is within me · práise his hóly Name.
 2. Praise the [[Lórd]], · O my sóul, * and forget not · áll his bénefits;
 3. Who forgíveth · all thy sín, * and healeth all · thíne infírmities;
@@ -2038,7 +2041,7 @@ Praise the [[Lórd]], · O my sóul: * O [[Lord]] my God, thou art become exceed
 
 
 \psalterday{21}{Morning}
-\psalm{105}{Confitemini Domino.}
+\psalm[Praise the Lord.]{105}{Confitemini Domino.}
 O give thanks unto the [[Lord]], and cáll up·on his Náme; * tell the people what · thíngs he háth done.
 2. O let your songs be of · hím, and práise him; * and let your talking be of · áll his wóndrous works.
 3. Rejóice in his · holy Náme; * let the heart of them re·jóice that séek the [[Lord]].
@@ -2082,11 +2085,11 @@ O give thanks unto the [[Lord]], and cáll up·on his Náme; * tell the people w
 41. For why? he remembered his · hóly prómise; * and Abra·hám his sérvant.
 42. And he brought forth his péo·ple with jóy, * and his chó·sen with gládness;
 43. And gave them the lánds · of the héathen; * and they took the labours of the people · ín posséssion;
-44. That they might · kéep his státutes, * – · ánd obsérve his laws.
+44. That they might · kéep his státutes, * – · ánd obsérve his laws. % \alleluya{[Praise the Lord]}
 
 
 \psalterday{21}{Evening}
-\psalm{106}{Confitemini Domino.}
+\psalm[Praise the Lord.]{106}{Confitemini Domino.}
 O give thanks unto the Lord; for · hé is grácious, * and his mercy endúr·eth for éver.
 2. Who can express the noble ácts · of the [[Lórd]], * or · shéw forth áll his praise?
 3. Blessed are they that ál·way keep júdgement, * – · and dö ríghteousness.
@@ -2132,7 +2135,8 @@ O give thanks unto the Lord; for · hé is grácious, * and his mercy endúr·et
 43. Nevertheless, when he saw · théir advérsity, * – · he hëard théir complaint.
 44. He thought upon his covenant, and pitied them according unto the multitude · óf his mércies; * yea, he made all those that led them away cáp·tive to píty them.
 45. Deliver us, O [[Lord]] our God, and gather us from a·móng the héathen; * that we may give thanks unto thy holy Name, and make our · bóast of thý praise.
-46. Blessed be the [[Lord]] God of Israel from everlasting and wórld · without énd; * and let all the péo·ple say, Ámen.
+46. Blessed be the [[Lord]] God of Israel from everlasting and wórld · without énd; * and let all the péo·ple say, Ámen. 
+% \comment{[Praise the Lord]}
 
 
 %<[[Book V]]>
@@ -2185,22 +2189,22 @@ O give thanks unto the [[Lord]], for · hé is grácious, * and his mercy endúr
 
 
 \psalterday{22}{Evening}
-\psalm{108}{Paratum cor meum.}
-O god, my heart is ready, my · héart is réady; * I will sing and give praise with the best mém·ber that Í have.
+\psalm[A song and a Psalm of David.]{108}{Paratum cor meum.}
+O God, my heart is ready, my · héart is réady; * I will sing and give praise with the best mém·ber that Í have.
 2. Awáke, thou · lute, and hárp; * I myself will a·wáke right éarly.
 3. I will give thanks unto thee, O [[Lord]], a·móng the péople; * I will sing praises unto thee a·móng the nátions.
 4. For thy mercy is greater · thán the héavens, * and thy truth reacheth · únto thé clouds.
 5. Set up thyself, O God, a·bóve the héavens, * and thy glory · aböve áll the earth.
 6. That thy beloved may · bé delívered: * let thy right hand sáve · them, and héar thou me.
 7. God hath spoken · ín his hóliness; * I will rejoice therefore, and divide Sichem, and mete out the vál·ley of Súccoth.
-8. Gilead is mine, and Manás·ses is míne; * Ephraym also is the · stréngth of mý head.
-9. Judah is my law-giver; Moab · ís my wásh-pot; * over Edom will I cast out my shoe; upon Philystia · wíll I tríumph.
+8. Gilead is mine, and Manás·ses is míne; * Ephraim also is the · stréngth of mý head.
+9. Judah is my law-giver; Moab · ís my wásh-pot; * over Edom will I cast out my shoe; upon Philistia · wíll I tríumph.
 10. Who will lead me into · the stróng cíty? * and who will bring me · ínto Édom?
 11. Hast not thou forsáken · us, O Gód? * and wilt not thou, O God, go · fórth with óur hosts?
 12. O help us a·gáinst the énemy: * for váin · is the hélp of man.
 13. Through Gód we shall · do great ácts; * and it is he that shall tréad · down our énemies.
 
-\psalm{109}{Deus laudem.}
+\psalm[To the chaunter, a Psalm of David.]{109}{Deus laudem.}
 Hold not thy tongue, O Gód · of my práise; * for the mouth of the ungodly, yea, the mouth of the deceitful is open·éd upón me.
 2. And they have spoken agáinst me · with false tóngues; * they compassed me about also with words of hatred, and fought agáinst · me withóut a cause.
 3. For the love that I had unto them, lo, they take now my cón·trary párt; * but I give my·sélf untó prayer.
@@ -2234,16 +2238,16 @@ Hold not thy tongue, O Gód · of my práise; * for the mouth of the ungodly, ye
 
 
 \psalterday{23}{Morning}
-\psalm{110}{Dixit Dominus.}
+\psalm[A Psalm of David.]{110}{Dixit Dominus.}
 The [[Lord]] said ún·to my Lórd, * Sit thou on my right hand, until I make thine ene·míes thy fóotstool.
-2. The [[Lord]] shall send the rod of thy power · óut of Sýon: * be thou ruler, even in the midst a·móng thine énemies.
+2. The [[Lord]] shall send the rod of thy power · óut of Síon: * be thou ruler, even in the midst a·móng thine énemies.
 3. In the day of thy power shall the people offer thee free-will offerings with an · hóly wórship: * the dew of thy birth is of the wómb · of the mórning.
 4. The [[Lord]] sware, ánd will · not repént, * Thou art a priest for ever after the order · óf Melchísedech.
 5. The Lord upón · thy right hánd * shall wound even kings in the · dáy of hís wrath.
 6. He shall judge a·móng the héathen; * he shall fill the places with the dead bodies, and smite in sunder the heads over · dívers cóuntries.
 7. He shall drink of the bróok · in the wáy; * therefore shall · hé lift úp his head.
 
-\psalm{111}{Confitebor tibi.}
+\psalm[Praise the Lord.]{111}{Confitebor tibi.}
 I will give thanks unto the [[Lórd]] with · my whole héart, * secretly among the faithful, and in the · cóngregátion.
 2. The wórks of the · [[Lord]] are gréat, * sought out of all them that have · pléasure thérein.
 3. His work is worthy to be praised and · hád in hónour, * and his righteousness endúr·eth for éver.
@@ -2254,8 +2258,9 @@ I will give thanks unto the [[Lórd]] with · my whole héart, * secretly among 
 8. They stand fast for év·er and éver, * and are done in · trúth and équity.
 9. He sent redemption ún·to his péople; * he hath commanded his covenant for ever; holy and ré·verend ís his Name.
 10. The fear of the [[Lord]] is the begín·ning of wísdom; * a good understanding have all they that do thereafter; the praise of it endúr·eth for éver.
+%[Praise the Lord for the returning again of Aggeus and Zachary the Prophets.]
 
-\psalm{112}{Beatus vir.}
+\psalm[Praise the Lord]{112}{Beatus vir.}
 Blessed is the man that féar·eth the [[Lórd]]; * he hath great delight in · hís commándments.
 2. His seed shall be míghty · upon éarth; * the generation of the faithful · sháll be bléssed.
 3. Riches and plenteousness shall bé · in his hóuse; * and his righteousness endúr·eth for éver.
@@ -2267,7 +2272,7 @@ Blessed is the man that féar·eth the [[Lórd]]; * he hath great delight in · 
 9. He hath dispersed abroad, and gíven · to the póor, * and his righteousness remaineth for ever; his horn shall be exált·ed with hónour.
 10. The ungodly shall see it, and · ít shall gríeve him; * he shall gnash with his teeth, and consume away; the desire of the ungód·ly shall pérish.
 
-\psalm{113}{Laudate, pueri.}
+\psalm[Praise the Lord.]{113}{Laudate, pueri.}
 Praise the · [[Lórd]], ye sérvants; * O praise the · Náme of thé [[Lord]].
 2. Blessed be the Náme · of the [[Lórd]] * from this time · fórth for évermore.
 3. The [[Lord]]’s · Náme is práised * from the rising up of the sun unto the going · dówn of thé same.
@@ -2276,6 +2281,7 @@ Praise the · [[Lórd]], ye sérvants; * O praise the · Náme of thé [[Lord]].
 6. He taketh up the simple óut · of the dúst, * and lifteth the poor · óut of thé mire;
 7. That he may set him · wíth the prínces, * even with the princes · óf his péople.
 8. He maketh the barren wóman · to keep hóuse, * and to be a joyful mó·ther of chíldren.
+%[Praise the Lord.]
 
 \psalterday{23}{Evening}
 \psalm{114}{In exitu Israel.}
@@ -2397,7 +2403,7 @@ Blessed are those that are undefíled · in the wáy, * and walk in the · láw 
 
 \subsection{\stylesubsec{iv.}{Adhæsit pavimento.}{}}
 \drop{My soul cléaveth · to the dúst; * O quicken thou me, accórd·ing to thý word.}
-26. I have acknowledged my wáys, · and thou héardest me: * O téach · me thy státutes.
+26. I have knowledged my wáys, · and thou héardest me: * O téach · me thy státutes.
 27. Make me to understand the way of · thý commándments; * and so shall I tálk · of thy wóndrous works.
 28. My soul melteth away for · véry héaviness; * comfort thou me according · únto thý word.
 29. Take from me the · wáy of lýing, * and cause thou me to make · múch of thý law.
@@ -2652,7 +2658,7 @@ If the [[Lord]] himself had not been on our side, now may Ís·rael sáy; * if t
 
 
 \psalm{125}{Qui confidunt.}
-They that put their trust in the [[Lord]] shall be even ás · the mount Sýon, * which may not be removed, but standeth · fást for éver.
+They that put their trust in the [[Lord]] shall be even ás · the mount Síon, * which may not be removed, but standeth · fást for éver.
 2. The hills stand a·bóut Jerúsalem; * even so standeth the [[Lord]] round about his people, from this time · fórth for évermore.
 3. For the rod of the ungodly cometh not into the lót · of the ríghteous; * lest the righteous put their hánd · unto wíckedness.
 4. Do · wéll, O [[Lórd]], * unto those that are · góod and trúe of heart.
@@ -2662,7 +2668,7 @@ They that put their trust in the [[Lord]] shall be even ás · the mount Sýon, 
 
 \psalterday{27}{Evening}
 \psalm{126}{In convertendo.}
-When the [[Lord]] turned again the captivi·tý of Sýon, * then were we líke · unto thém that dream.
+When the [[Lord]] turned again the captivi·tý of Síon, * then were we líke · unto thém that dream.
 2. Then was our mouth fíll·ed with láughter, * – · ánd our tóngue with joy.
 3. Then said they a·móng the héathen, * The [[Lord]] hath done · gréat things fór them.
 4. Yea, the [[Lord]] hath done great things for · ús alréady; * – · whereöf wé rejoice.
@@ -2687,7 +2693,7 @@ Blessed are all théy that · fear the [[Lórd]], * and · wálk in hís ways.
 3. Thy wife shall be ás the · fruitful víne * upon the · wálls of thíne house.
 4. Thy children like the · ólive-bránches * round a·bóut thy táble.
 5. Lo, thus shall the · mán be bléssed * that · féareth thé [[Lord.]]
-6. The [[Lord]] from out of Syon · sháll so bléss thee, * that thou shalt see Jerusalem in prosperity · áll thy lífe long;
+6. The [[Lord]] from out of Sion · sháll so bléss thee, * that thou shalt see Jerusalem in prosperity · áll thy lífe long;
 7. Yea, that thou shalt see thy · chíldren’s chíldren, * and péace · upon Ísrael.
 
 \psalm{129}{Sæpe expugnaverunt.}
@@ -2695,7 +2701,7 @@ Many a time have they fought against me fróm · my youth úp, * may Ís·rael n
 2. Yea, many a time have they vexed me fróm · my youth úp; * but they have not preváil·ed agáinst me.
 3. The plowers plówed up·on my báck, * and · máde long fúrrows.
 4. But the · ríghteous [[Lórd]] * hath hewn the snares of the ungód·ly in píeces.
-5. Let them be confounded and · túrned báckward, * as many as have evil · wíll at Sýon.
+5. Let them be confounded and · túrned báckward, * as many as have evil · wíll at Síon.
 6. Let them be even as the grass growing up·ón the hóusetops, * which withereth afóre · it be plúcked up;
 7. Whereof the mower fílleth · not his hánd, * neither he that bindeth up the · shéaves his bósom.
 8. So that they who go by say not so much as, The [[Lord]] · prósper yóu; * we wish you good luck in the · Náme of thé [[Lord.]]
@@ -2733,7 +2739,7 @@ Lord, re·mémber Dávid, * and · áll his tróuble;
 11. The [[Lord]] hath made a faithful oath · únto Dávid, * and he · sháll not shrínk from it;
 12. Of the frúit · of thy bódy * shall I sét · upon thý seat.
 13. If thy children will keep my covenant, and my testimonies that · Í shall léarn them; * their children also shall sit upon thy · séat for évermore.
-14. For the [[Lord]] hath chosen Syon to be an habitátion · for himsélf; * he hath · lónged fór her.
+14. For the [[Lord]] hath chosen Sion to be an habitátion · for himsélf; * he hath · lónged fór her.
 15. This shall be my · rést for éver: * here will I dwell, for I háve · a delíght therein.
 16. I will bless her víc·tuals with íncrease, * and will satis·fý her póor with bread.
 17. I will déck her · priests with héalth, * and her saints · sháll rejóice and sing.
@@ -2744,7 +2750,7 @@ Lord, re·mémber Dávid, * and · áll his tróuble;
 \psalm{133}{Ecce, quam bonum!} 
 Behold, how good and jóyful a · thing it ís, * brethren, to dwell togéth·er in únity!
 2. It is like the precious ointment upon the head, that ran dówn un·to the béard, * even unto Aaron’s beard, and went down to the skírts · of his clóthing.
-3. Like as the · déw of Hérmon, * which fell upon the · híll of Sýon.
+3. Like as the · déw of Hérmon, * which fell upon the · híll of Síon.
 4. For there the [[Lord]] promis·éd his bléssing, * and · lífe for évermore.
 
 
@@ -2752,7 +2758,7 @@ Behold, how good and jóyful a · thing it ís, * brethren, to dwell togéth·er
 Behóld now, · praise the [[Lórd]], * all ye · sérvants óf the [[Lord]];
 2. Ye that by night stand in the hóuse · of the [[Lórd]], * even in the courts of the · hóuse of óur God.
 3. Lift up your hands in the · sánctuáry, * – · – and práise the [[Lord.]]
-4. The [[Lord]] that made héa·ven and éarth * give thee blessing · óut of Sýon.
+4. The [[Lord]] that made héa·ven and éarth * give thee blessing · óut of Síon.
 
 
 \psalm{135}{Laudate Nomen.} 
@@ -2776,7 +2782,7 @@ O praise the [[Lord]], laud ye the Náme · of the [[Lórd]]; * praise it, O ye 
 18. They that make them are líke · unto thém; * and so are all they that · pút their trúst in them.
 19. Praise the [[Lord]], ye · hóuse of Ísrael; * praise the [[Lord]], ye · hóuse of Áaron.
 20. Praise the [[Lord]], ye · hóuse of Lévi; * ye that fear · the [[Lörd]], práise the [[Lord]].
-21. Praised be the [[Lord]] · óut of Sýon, * who dwelleth · át Jerúsalem.
+21. Praised be the [[Lord]] · óut of Síon, * who dwelleth · át Jerúsalem.
 
 
 
@@ -2812,9 +2818,9 @@ O give thanks unto the [[Lord]], for · hé is grácious: * and his mercy endúr
 
 
 \psalm{137}{Super flumina.}
-By the waters of Babylon we sát · down and wépt, * when we remembered · thée, O Sýon.
+By the waters of Babylon we sát · down and wépt, * when we remembered · thée, O Síon.
 2. As for our harps, we háng·ed them úp * upon the · trées that áre therein.
-3. For they that led us away captive required of us then a song, and melody · ín our héaviness: * Sing us one of the · sóngs of Sýon.
+3. For they that led us away captive required of us then a song, and melody · ín our héaviness: * Sing us one of the · sóngs of Síon.
 4. How shall we · síng the [[Lórd]]’s song * – · ín a stránge land?
 5. If I forget thee, · Ó Jerúsalem, * let my right hand for·gét her cúnning.
 6. If I do not remember thee, let my tongue cleave to the róof · of my móuth; * yea, if I prefer not Jerú·salem ín my mirth.
@@ -2979,7 +2985,7 @@ Praise the [[Lord]], O my soul; while I líve will I · praise the [[Lórd]]; * 
 7. The [[Lord]] looseth men · óut of príson; * the [[Lord]] giveth · síght to thé blind.
 8. The [[Lord]] helpeth thém · that are fállen; * the [[Lord]] careth · fór the ríghteous.
 9. The [[Lord]] careth for the strangers, he defendeth the father·léss and wídow: * as for the way of the ungodly, he túrn·eth it úpside down.
-10. The [[Lord]] thy God, O Syon, shall be Kíng for · evermóre, * and throughout all · génerátions.
+10. The [[Lord]] thy God, O Sion, shall be Kíng for · evermóre, * and throughout all · génerátions.
 
 
 
@@ -2998,7 +3004,7 @@ O praise the [[Lord]], for it is a good thing to sing praises ún·to our Gód; 
 11. But the [[Lord]]’s delight is in · thém that féar him, * and put their trúst · in his mércy.
 
 \subsection{\stylesubsec{}{Lauda Hierusalem.}{}}
-12. Praise the [[Lórd]], · O Jerúsalem; * praise thy · Gód, O Sýon.
+12. Praise the [[Lórd]], · O Jerúsalem; * praise thy · Gód, O Síon.
 13. For he hath made fast the bárs · of thy gátes, * and hath blessed thy chíl·dren withín thee.
 14. He maketh péace · in thy bórders, * and filleth thee · wíth the flóur of wheat.
 15. He sendeth forth his commándment · upon éarth, * and his word runneth · véry swíftly.
@@ -3006,10 +3012,10 @@ O praise the [[Lord]], for it is a good thing to sing praises ún·to our Gód; 
 17. He casteth forth his · íce like mórsels: * who is able · tó abíde his frost?
 18. He sendeth out his · wórd, and mélteth them: * he bloweth with his wínd, · and the wáters flow.
 19. He sheweth his wórd · unto Jácob, * his statutes and ordinances · únto Ísrael.
-20. He hath not dealt so with · ány nátion; * neither have the heathen · knówledge óf his laws.
+20. He hath not dealt so with · ány nátion; * neither have the heathen · knówledge óf his laws.\alleluya
 
 
-\psalm{148}{Laudate Dominum.}
+\psalm[Alleluya.  Praise the everlasting.]{148}{Laudate Dominum.}
 O praise the · [[Lórd]] of héaven: * – · práise him ín the height.
 2. Praise him, all ye án·gels of hís: * – · práise him, áll his host.
 3. Praise him, · sún and móon: * praise him, · áll ye stárs and light.
@@ -3022,26 +3028,26 @@ O praise the · [[Lórd]] of héaven: * – · práise him ín the height.
 10. Beasts · ánd all cáttle; * worms and · féatheréd fowls;
 11. Kings of the éarth · and all péople; * princes and all · júdges óf the world;
 12. Young men and maidens, old men and children, praise the Náme · of the [[Lórd]]: * for his Name only is excellent, and his praise above · héaven ánd earth.
-13. He shall exalt the horn of his people; all his · sáints shall práise him; * even the children of Israel, even the péo·ple that sérveth him.
+13. He shall exalt the horn of his people; all his · sáints shall práise him; * even the children of Israel, even the péo·ple that sérveth him.\alleluya
 
 
-\psalm{149}{Cantate Domino.}
+\psalm[Alleluya.  Praise the everlasting.]{149}{Cantate Domino.}
 O sing unto the [[Lórd]] · a new sóng; * let the congregation · of säints práise him.
-2. Let Israel rejoice in hím · that made hím, * and let the children of Syon be jóy·ful in théir King.
+2. Let Israel rejoice in hím · that made hím, * and let the children of Sion be jóy·ful in théir King.
 3. Let them praise his Náme · in the dánce: * let them sing praises unto him with · tábret ánd harp.
 4. For the [[Lord]] hath pleasure · ín his péople, * and helpeth · the mëek-héarted.
 5. Let the saints be jóy·ful with glóry; * let them re·jóice in théir beds.
 6. Let the praises of God bé · in their móuth; * and a two-edged · swórd in théir hands;
 7. To be avenged · óf the héathen, * and to re·búke the péople;
 8. To bínd their · kings in cháins, * and their nobles with · línks of íron.
-9. That they may be avenged of them, ás · it is wrítten, * Such hó·nour have áll his saints.
+9. That they may be avenged of them, ás · it is wrítten, * Such hó·nour have áll his saints.\alleluya
 
-\psalm{150}{Laudate Dominum.}
+\psalm[Alleluya]{150}{Laudate Dominum.}
 O praise God · ín his hóliness: * praise him in the firmament · óf his pówer.
 2. Praise him ín his · noble ácts: * praise him according to his éx·cellent gréatness.
 3. Praise him in the sóund · of the trúmpet: * praise him up·ón the lúte and harp.
 4. Praise him in the cým·bals and dánces: * praise him up·ón the stríngs and pipe.
 5. Praise him upon the well-·túned cýmbals: * praise him upon · the löud cýmbals.
-6. Let every thíng · that hath bréath * – · – – práise the [[Lord.]]
+6. Let every thíng · that hath bréath * – · – – práise the [[Lord.]]\alleluya[Praise the everlasting.]
 
 \fleuron

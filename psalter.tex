@@ -13,20 +13,36 @@
         if "#2" == "Morning" then
             tex.print([[\noexpand\renewcommand{\noexpand\daynumber}{Day #1: M.}]])
         else 
-        tex.print([[\noexpand\renewcommand{\noexpand\daynumber}{Day #1: E.}]])
+            tex.print([[\noexpand\renewcommand{\noexpand\daynumber}{Day #1: E.}]])
         end
     }
 }
-\newcommand{\psalm}[2]{
-    \subsection[{Psalm #1}]{\stylesubsec{Psalm #1.}{#2}{}}
-    \setcounter{psalmnumber}{#1}
+\newcommand{\psalm}[3][]{
+    \subsection[{Psalm #2}]{\stylesubsec{Psalm #2.}{#3}{}}
+    \setcounter{psalmnumber}{#2}
+    % \directlua{
+    %     if [[#1]] \string~= "" then
+    %         tex.print([[\noexpand\pilcrow{#1}]])
+    %     end
+    % }
+}
+
+\newcommand{\selah}{
+    % \scripture{Selah.}
+}
+\newcommand{\alleluya}[1][]{
+    % \scripture{Alleluya. #1}
 }
 
 
-\chapter[The Psalms]{The Psalms of David}
-
+%
+\chapter[The Psalter]{The Psalter, or Psalms of David}
+\centerline{\emph{after the translation of the Great Bible}}
+\centerline{\emph{pointed as they are to be sung or said in churches.}}
+\medskip
 
 
 \directlua{printPsalter()}
 
 
+\pagestyle{mystyle}
