@@ -1,12 +1,16 @@
-\documentclass[foolscapvopaper,11pt,twoside,openany,extrafontsizes,final]{memoir}
+\documentclass[foolscapvopaper,10pt,twoside,openany,extrafontsizes,final]{memoir}
 % \documentclass[ebook,12pt,twoside,openany,extrafontsizes,final]{memoir}
 \usepackage{fontspec}
 \usepackage{lettrine}
 \usepackage[autocompile]{gregoriotex}
 \usepackage{multicol}
+\usepackage{multirow}
 \usepackage{wrapfig}
+\usepackage{lscape}
 % \usepackage[rflt]{floatflt}
 \usepackage{longtable,tabu}
+\usepackage{xtab}
+\usepackage[perpage]{footmisc}
 % \usepackage{lua-visual-debug}
 % a Font that supplies Astrological glyphs
 \newfontfamily\versiculus{DejaVu Sans}
@@ -36,9 +40,10 @@
 \setsubsecheadstyle{\centering}
 \setaftersubsecskip{1pt}
 
+\newcommand{\stylechapter}[3]{{\normalfont\scshape\normalsize#1\par}#2\par{\normalfont\scshape\normalsize#3}}
 \newcommand{\stylesubsec}[3]{\small{\mbox{\scshape#1}} {\mbox{\itshape\red #2}} {\mbox{#3}}}
 \newcommand{\stylesec}[3]{\section[#3]{#1\\ {\normalfont\small#2\\ } #3}}
-\newcommand{\scripture}[1]{\hspace*{\fill}{\mbox{\small\itshape\red #1}}}
+\newcommand{\scripture}[1]{\hspace*{\fill}{\mbox{\small\itshape\red #1}}\par\smallskip}
 %Subsubsection
 %Descriptive names of prayers, etc.
 \setbeforesubsubsecskip{1em plus 0ex minus 1ex}
@@ -114,15 +119,70 @@
 \newcommand \etc{\emph{\red\&c.}}
 \newcommand \minorheading[2]{{\unexpanded\expandafter{\scshape #1}}\par{\unexpanded\expandafter{\itshape #2}}}
 \newcommand \subseccaption[2]{\subsection{#1 {\itshape\small\red #2}}}
-
+\newcommand \prefaceCaption[3]{\subsection{{\small\emph{\red #1} #2 \emph{\red #3}}}}
 \newcommand \rubric[1]{\emph{\footnotesize\red #1}}
 \newcommand \pilcrow[1]{\par\footnotesize\noindent\makebox[1em][l]{¶ }\hangindent1em\rubric{#1}\par\normalsize}
 
 \newcommand \cross {\grecross\ }
 
+\newcommand{\qa}[1]{{\itshape\small\red#1}}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
 \medievalpage
 \raggedbottom
 \checkandfixthelayout
+
+
+
+\newcounter{cnt}\setcounter{cnt}{0}
+\def\t{\stepcounter{cnt}\thecnt. cat sat on the mat. }
+
+\newdimen\tttaa
+\newdimen\tttbb
+
+\renewcommand\thepage{\the\numexpr(\value{page}+1)/2\relax}
+
+\makeatletter
+\def\merge@ps{\afterassignment\merge@ps@\tttbb}
+\def\merge@ps@{\afterassignment\merge@ps@@\tttaa}
+
+\def\merge@ps@@{%
+\afterassignment\reset@WF@ps\dimen@\WF@ps\valign
+%\showthe\count@
+\ifnum\count@>\@ne
+\advance\count@\m@ne
+\expandafter\merge@ps
+\fi
+}
+
+
+\def\reset@WF@ps{\afterassignment\reset@WF@ps@\dimen@ii}
+
+\def\reset@WF@ps@#1\valign{%
+\edef\new@wf@ps{\new@wf@ps
+  \the\dimexpr\dimen@+\tttbb\relax\space
+  \the\dimexpr\dimen@ii-\tttbb\relax\space}%
+ \def\WF@ps{#1}}
+
+
+\newcommand\wflettrine[3][]{%
+  \setbox\tw@\hbox{\lettrine[#1]{#2}{#3}\global\let\gtmp\L@parshape}%
+  \afterassignment\wf@getoffset\count@\gtmp\hoffset
+  \setbox\WF@box\hbox{\kern-\dimen@\box\WF@box\kern\dimen@}%
+  \noindent\box\tw@
+    \def\new@wf@ps{}%
+    \afterassignment\merge@ps\count@\gtmp
+    \edef\WF@ps{\new@wf@ps\space\WF@ps}%
+    \@@parshape\c@WF@wrappedlines\WF@ps\z@\columnwidth}
+
+
+\def\wf@getoffset{\afterassignment\wf@get@ffset\dimen@}
+\def\wf@get@ffset#1\hoffset{}
+
+\makeatother
+
+
 
 
 \begin{document}
@@ -141,6 +201,7 @@ Preface
 \mainmatter
 \input{kalendar}
 \input{psalmTable}
+\input{tableOfLessons}
 % \part{Service Music}
 \include{mattins}
 \include{evensong}
@@ -151,24 +212,66 @@ Preface
 
 \include{mass}
 
-The Order of Baptism
+\include{baptism}
 
 \include{catechism}
 
-The Order of Confirmation
+\include{confirmation}
 
 \include{confession}
 
-The Form of Solemnization of Matrimony
+\chapter{The Form of Solemnization of Matrimony}
 
-The Order for the Visitation of the Sick, and the Communion of the Sick
+\chapter{The Order for the Visitation of the Sick, and the Communion of the Sick}
 
 Kings evil in a git branch
 
-The Order for the Burial of the Dead.
+\chapter{The Order for the Burial of the Dead}
+\include{churching}
 
-The Thanksgiving of Women after Child-birth
+\include{commination}
+\include{blessings}
 
 \include{psalter}
+
+\include{appendix}
+Appendix:
+
+Service of catechising
+
+"the forme of" or "the order for the conjuring of water"?
+
+
+
+
+Sources:
+Collect "For Reconciliation with the Jews" on Good Friday from the Prayer Book Society of Canada; Authorized for use \emph{ad libitum} by the General Synod of the Anglican Church of Canada.
+
+
+{\tiny\begin{longtabu} to \linewidth 
+  {@{} c @{\hspace{.5em}} c @{\hspace{1em}}X
+  |@{\hspace{.3em}}X[1,r]@{\hspace{.3em}}|@{\hspace{.3em}}X[1,r]@{\hspace{.3em}}||@{\hspace{.3em}}X[1,r]@{\hspace{.3em}}|@{\hspace{.3em}}X[1,r]@{\hspace{.3em}}|}
+
+   &          &          & \multicolumn{2}{c}{\scshape Mattins} & \multicolumn{2}{c}{\scshape Evensong} \\
+   &          &          & 1st  & 2nd & 1st  & 2nd  \\ 
+   &          &          & Lesson & Lesson & Lesson & Lesson \\ \hline
+1  & {\red A} & \dub{Circumcision}\dotfill & & & &\\ %of our Lord.
+2  & b        & \dotfill & Gen.~1 & Matt.~1 & Gen.~2 & Rom.~1 \\
+3  & c        & \dotfill & \dotfill 3 & \dotfill 2 & \dotfill 4 & \dotfill 2\\
+4  & d        & \dotfill & \dotfill 5 & \dotfill 3 & \dotfill 6 & \dotfill 3\\
+5  & e        & \dotfill & \dotfill 7 & \dotfill 4 & \dotfill 8 & \dotfill 4\\
+6  & f        & \dub{\red Epiphany}\dotfill & & & &\\ %of our Lord}.
+7  & g        & \dotfill &     \dotfill 9 &       \dotfill 5 &    \dotfill 12 &      \dotfill 5 \\ %(Keys of LXX.) 
+8  & {\red A} & S.~Lucian, B.M.\dotfill&   \dotfill   13 &   \dotfill      6 &  \dotfill    14 &    \dotfill   6\\
+9  & b        & \dotfill &    \dotfill  15 &      \dotfill   7 &   \dotfill   16 &   \dotfill    7 \\
+10 & c        & \dotfill &  \dotfill    17 &   \dotfill      8 &  \dotfill    18 &  \dotfill     8 \\
+11 & d        & \dotfill &  \dotfill    19 &    \dotfill     9 &  \dotfill    20 &   \dotfill    9 \\
+12 & e        & \dotfill &   \dotfill   21 &    \dotfill    10 &   \dotfill   22 &   \dotfill   10\\
+13 & f        & \mem{S.~Hilary, B.C.}\dotfill&   \dotfill   23 &     \dotfill   11 &   \dotfill   24 &   \dotfill   11\\
+14 & g        & \dotfill &   \dotfill   25 &   \dotfill     12 & \dotfill     26 &   \dotfill   12\\
+
+
+\end{longtabu}}
+
 
 \end{document}
