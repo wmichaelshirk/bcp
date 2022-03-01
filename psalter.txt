@@ -38,7 +38,7 @@ Lord, how are they incréas·ed that tróuble me! * many are they that · ríse 
 \psalm[To him that excelleth in musick, a psalm of David.]{4}{Cum invocarem.}
 Hear me when I call, O Gód · of my ríghteousness: * thou hast set me at liberty when I was in trouble; have mercy upon me, and hearken · únto mý prayer.
 2. O ye sons of men, how long will ye blas·phéme mine hónour, * and have such pleasure in vanity, and séek · after léasing?\selah
-3. Know this also, that the Lord hath chosen to himself the mán · that is gódly; * when I call upon the Lord, · hé will héar me.
+3. Know this also, that the [[Lord]] hath chosen to himself the mán · that is gódly; * when I call upon the [[Lord]], · hé will héar me.
 4. Stand in áwe, · and sin nót; * commune with your own heart, and in your · chámber, ánd be still.\selah
 5. Offer the sacri·fíce of ríghteousness, * and put your · trúst in thé [[Lord]].
 6. There be má·ny that sáy, * Who will · shéw us ány good?
@@ -292,7 +292,7 @@ I will love thee, O [[Lord]], my strength. The [[Lord]] is my stony róck, and �
 44. A people whóm I · have not knówn * – · – shall sérve me.
 45. As soon as they hear of me, they · sháll obéy me; * but the strange children shall dis·sémble wíth me.
 46. The strange chíldren shall fáil, * and be afraid óut · of their prísons.
-47. The [[Lord]] liveth, and blessed be · mý strong hélper, * and praised be the Lord of · mý salvátion;
+47. The [[Lord]] liveth, and blessed be · mý strong hélper, * and praised be the God of · mý salvátion;
 48. Even the God that seeth that I · bé avénged, * and subdueth the · péople únto me.
 49. It is he that delivereth me from my cruel enemies, and setteth me up above mine · ádversáries: * thou shalt rid me · fróm the wícked man.
 50. For this cause will I give thanks unto thee, O [[Lord]], amóng the Géntiles, * and sing praises · únto thý Name.
@@ -2606,7 +2606,7 @@ Blessed are those that are undefíled · in the wáy, * and walk in the · láw 
 
 
 \psalterday{27}{Morning}
-\psalm{120}{Ad Dominums.}
+\psalm{120}{Ad Dominum.}
 When I was in trouble I cálled up·on the [[Lórd]], * – · ánd he héard me.
 2. Deliver my soul, O [[Lórd]], from · lying líps, * and fróm · a decéitful tongue.
 3. What reward shall be given or done unto thée, · thou false tóngue? * even mighty and sharp arrows, · with höt búrning coals.
@@ -2887,7 +2887,7 @@ Deliver me, O [[Lord]], fróm the · evil mán; * and preserve me · fróm the w
 13. The righteous also shall give thanks ún·to thy Náme; * and the just shall contín·ue in thý sight.
 
 
-\psalm{141}{Domine, clamavi}
+\psalm{141}{Domine, clamavi.}
 Lord, I call upon thee, háste thee · unto mé, * and consider my voice when I · crý untó thee.
 2. Let my prayer be set forth in thy síght · as the íncense; * and let the lifting up of my hands be an · évening sácrifice.
 3. Set a watch, O [[Lórd]], be·fore my móuth, * and keep the · dóor of mý lips.

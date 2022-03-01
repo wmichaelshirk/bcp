@@ -16,19 +16,17 @@ lualatex bcp.tex
 
 ## Roadmap
 
+* Decide final dimensions
 * Futher Preface material (Table of Lessons 1922, Tables and Rules for the Feasts and Fasts of the whole year.)
 * Further proofreading and correction of the Propers
-* Final proofing and correcting of Mass, baptism, confirmation, marriage
+* Final proofing and correcting 
 
-* The Order for the Visitation of the Sick, and
-* the Communion of the Sick (Kings evil in a git branch)
-* The Order for the Burial of the Dead.
+* Blessing of a civil marriage?
 
 * Revisit commination - General Cursing for ember days? Ash Wed to propers?
 
 * Add: Conjuring of Bread, of any object; asperges
 * Appendix: Proper ceremonies (moved to Propers?)
-* 1662 Lectionary
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

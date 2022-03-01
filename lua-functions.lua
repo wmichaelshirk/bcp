@@ -1,4 +1,8 @@
 -- Functions that should be standard library I copied from somewhere.
+function isOdd(num)
+    return math.mod(num, 2) ~= 0
+end
+
 function trim(s)
     -- from PiL2 20.4
     return (s:gsub("^%s*(.-)%s*$", "%1"))
@@ -125,6 +129,7 @@ function printKalendar2()
 
     for line in io.lines("lectionary1662.txt") do
         (function()
+        texio.write_nl(line)
         local splitline = tsplit(line, "|")
         if not splitline or (#splitline == 1 and trim(splitline[1]) == "") then
             if inTable == true then
@@ -133,9 +138,11 @@ function printKalendar2()
             end
         elseif #splitline == 1 then
             tex.print("\\section{" .. splitline[1] .. "}")
-            tex.print("{\\" .. mainFontSize)
-            tex.print("\\begin{longtabu} to \\linewidth {@{} c @{\\hspace{.5em}} c @{\\hspace{.5em}} r @{\\hspace{.3em}} l @{\\hspace{1em}} X @{} }")
-            inTable = true
+            if string.find(splitline[1], "Moon") then
+                tex.print("{\\" .. mainFontSize)
+                tex.print("\\begin{longtabu} to \\linewidth {@{} c @{\\hspace{.5em}} c @{\\hspace{1em}}X[3,l]|@{\\hspace{.3em}}X[1,r]@{\\hspace{.3em}}|@{\\hspace{.3em}}X[1,r]@{\\hspace{.3em}}||@{\\hspace{.3em}}X[1,r]@{\\hspace{.3em}}|@{\\hspace{.3em}}X[1,r]@{\\hspace{.3em}}|}    &          &          & \\multicolumn{2}{c}{\\scshape Mattins} & \\multicolumn{2}{c}{\\scshape Evensong} \\\\ &          &          & 1st        & 2nd        & 1st        & 2nd  \\\\  &          &          & Lesson     & Lesson     & Lesson     & Lesson \\\\ \\hline ")
+                inTable = true
+            end
         else 
             local hang
             while (#splitline < 5) do
@@ -150,26 +157,42 @@ function printKalendar2()
                     return
                 end
                 
-            else 
+            else
+                if #splitline == 11 then
+                    table.remove(splitline)
+                end
+                table.remove(splitline, 5)
+                table.remove(splitline, 4)
+                table.remove(splitline, 1)
+                texio.write_nl(table.concat(splitline,"&"))
                 if #splitline == 6 then
+                    texio.write_nl("splitline = 6")
                     hang = table.remove(splitline)
                     splitline[#splitline] = splitline[#splitline] .. "\\hspace*{\\fill}\\emph{" .. hang .. "}"
                 end
-                if splitline[4] ~= "" then
-                    splitline[4] = "\\emph{" .. splitline[4] .. "}"
-                end
+                -- if splitline[4] ~= "" then
+                --     texio.write_nl("splitline[4] is empty")
+                --     texio.write_nl(splitline[4])
+                    
+                --     splitline[4] = "\\emph{" .. splitline[4] .. "}"
+                -- end
                 if trim(splitline[2]) == "A" then
+                    texio.write_nl("splitline[2] is A")
                     splitline[2] = "{\\red ".. trim(splitline[2]) .. "}"
                 end
-                if trim(splitline[3]) == "KL" then
-                    splitline[3] = "\\multicolumn{2}{c}{\\dub{\\red" .. splitline[3] .. "}}"
-                    table.remove(splitline,4)
-                end
-                if trim(splitline[3]) == "Ides" or trim(splitline[3]) == "Nones" then
-                    splitline[3] = "\\multicolumn{2}{c}{\\scshape " .. trim(splitline[3]) .. "}"
-                    table.remove(splitline,4)
-                end
+                -- if trim(splitline[4]) == "KL" then
+                --     texio.write_nl("splitline[4] is kl")
+                --     splitline[4] = "\\multicolumn{2}{c}{\\dub{\\red" .. splitline[3] .. "}}"
+                --     table.remove(splitline,4)
+                -- end
+                -- if trim(splitline[4]) == "Ides" or trim(splitline[4]) == "Nones" then
+                --     texio.write_nl("splitline4 is ides or nones")
+                --     splitline[4] = "\\multicolumn{2}{c}{\\scshape " .. trim(splitline[4]) .. "}"
+                --     table.remove(splitline,4)
+                -- end
+                texio.write_nl("writing it out.")
             end
+            texio.write_nl(table.concat(splitline,"&"))
             tex.print(table.concat(splitline,"&") .. "\\\\")
         end
     end)()     
@@ -201,3 +224,26 @@ function printPsalter()
         tex.print("")
     end
 end
+
+
+function printhymn(text)
+    tex.print("\\begin{hangparas}{.25in}{1}")
+    tex.print("\\footnotesize")
+    tex.print("\\begin{multicols}{2}")
+    local newPar = "\\par\r "
+    local indentedText = text:gsub("    ", "\\hspace{1cm}")
+    local splitVerses = tsplit(indentedText:gsub(string.char(10), newPar), newPar:rep(2))
+    local lastVerse = ''
+    if isOdd(#splitVerses) then
+        lastVerse = table.remove(splitVerses):gsub(newPar, "\\\\ ")
+    end
+    tex.print(table.concat(splitVerses, "\\medskip\r "))
+    tex.print("\\end{multicols} ")
+    if (lastVerse ~= '') then
+        tex.print("\\begin{center}\\begin{tabular}{l}")
+        tex.print(lastVerse)
+        tex.print("\\end{tabular}\\end{center}")
+    end
+    tex.print("\\end{hangparas} ")
+end
+
