@@ -18,7 +18,8 @@ lualatex bcp.tex
 
 * Decide final dimensions
 * Futher Preface material (Table of Lessons 1922, Tables and Rules for the Feasts and Fasts of the whole year.)
-* Further proofreading and correction of the Propers
+* proofreading and correction of the Propers
+* Optional Propers - integrated or on their own?
 * Final proofing and correcting 
 
 * Blessing of a civil marriage?
