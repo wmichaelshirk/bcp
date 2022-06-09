@@ -247,3 +247,51 @@ function printhymn(text)
     tex.print("\\end{hangparas} ")
 end
 
+
+function formatReference(ref)
+    local formattedReference = string.gsub(ref, "(%d+,)", "\\textbf{%1}")
+    return formattedReference
+end
+
+function printLessons()
+    -- local drop = false
+    tex.print("\\begin{longtabu} to \\linewidth { @{}X   X  | X@{} }")
+    tex.print("\\hline & {\\scshape Mattins} & {\\scshape Evensong}\\\\")
+    tex.print("\\hline\\endfirsthead")
+    tex.print("\\hline & {\\scshape Mattins} & {\\scshape Evensong}\\\\")
+    tex.print("\\hline\\endhead")
+
+    for line in io.lines("lessons.tsv") do
+        local splitline = tsplit(line, "\t")
+        local feast = splitline[1]
+        local day = splitline[2]
+        local firstMattinsBook = splitline[3]
+        local firstMattinsChap = splitline[4]
+        local secondMattinsBook = splitline[5]
+        local secondMattinsChap = splitline[6]
+        local firstEvensongBook = splitline[7]
+        local firstEvensongChap = splitline[8]
+        local secondEvensongBook = splitline[9]
+        local secondEvensongChap = splitline[10]
+
+        local firstMattins = formatReference("" .. firstMattinsBook .. " " .. firstMattinsChap)
+        local secondMattins = formatReference("" .. secondMattinsBook .. " " .. secondMattinsChap)
+
+        local firstEvensong = formatReference("⑴ " .. firstEvensongBook .. " " .. firstEvensongChap)
+        local secondEvensong = formatReference("⑵ " .. secondEvensongBook .. " " .. secondEvensongChap)
+
+        -- local mattins = "$ \\begin{cases} ⑴ & \\textrm{" .. firstMattins .. "} \\\\ ⑵ & \\textrm{" .. secondMattins .. "} \\end{cases} $ "
+        local mattins = "\\begin{tabu} {X X} ⑴ & " .. firstMattins .. "\\\\ " .. "⑵ & " .. secondMattins .. "\\end{tabu} "
+        -- local mattins = ""
+        local evensong = "\\shortstack[l]{" .. firstEvensong .. "\\\\ " .. secondEvensong .. "} "
+
+        tex.print(feast .. day .. " & " .. mattins .. " & " .. evensong)
+        tex.print("\\\\")
+    end
+    
+    tex.print("\\end{longtabu}")
+end
+
+
+
+-- „

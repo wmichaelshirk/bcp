@@ -59,16 +59,25 @@ the time of King \emph{Henry} the Eighth, and \emph{Edward} the Sixth.
 \section[Proper Psalms for Certain Days]{Table of Proper Psalms for Certain Days}
 {\scriptsize
 
-\begin{longtabu} to \linewidth { @{}X | c | c@{} }
-\hline 
-    & {\scshape Mattins} & {\scshape Evensong}\\
+\SetTblrTemplate{head}{empty}
+\SetTblrTemplate{foot}{empty}
+\begin{longtblr}[
+    entry=none,
+    label=none,
+    caption=none
+]{
+    rowhead=2,
+    rowfoot=0,
+    rows={rowsep=0pt},
+    row{1}={rowsep=2pt},
+    row{2}={ht=2pt},
+    colspec={X|c|c},
+    column{1}={leftsep=0pt},
+    column{3}={rightsep=0pt}
+}
 \hline
-\endfirsthead
-%---------------------------------------------------------------%
-\hline
-    & {\scshape Mattins} & {\scshape Evensong}\\
-\hline
-\endhead
+ & {\scshape Mattins} & {\scshape Evensong}\\
+\hline\\
 
 First Sunday in Advent\dotfill      & 1, 7          & 46, 48\\
 Second Sunday in Advent\dotfill     & 9, 11         & 50, 67\\
@@ -158,7 +167,8 @@ Eve of the Dedication\dotfill        & —                  & 84, 87\\
 Feast of the Dedication\dotfill     & 132                & 122, 133, 134\\
 Harvest Thanksgiving\dotfill      & 103                & 65, 67\\
                                   & 104                & 147, 150
-\end{longtabu}}
+\end{longtblr}
+}
 
 
 \medskip

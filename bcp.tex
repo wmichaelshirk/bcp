@@ -1,5 +1,6 @@
 \documentclass[foolscapvopaper,10pt,twoside,openany,extrafontsizes,final]{memoir}
 % \documentclass[ebook,12pt,twoside,openany,extrafontsizes,final]{memoir}
+\usepackage{svg}
 \usepackage{fontspec}
 \usepackage{lettrine}
 \usepackage[autocompile]{gregoriotex}
@@ -10,6 +11,8 @@
 % \usepackage[rflt]{floatflt}
 \usepackage{longtable,tabu}
 \usepackage{xtab}
+\usepackage{tabularx}
+\usepackage{tabularray}
 \usepackage[perpage]{footmisc}
 % \usepackage{lua-visual-debug}
 % a Font that supplies Astrological glyphs
@@ -183,6 +186,22 @@
 
 \makeatother
 
+\makeatletter
+\def\tabu@verticalmeasure{\everypar{}%
+\unless\ifnum\currentgrouptype=14 \let\tabu@currentgrouptype\currentgrouptype\fi
+    \ifnum \tabu@currentgrouptype>12         % 14=semi-simple, 15=math shift group
+        \setbox\tabu@box =\hbox\bgroup
+            \let\tabu@verticalspacing \tabu@verticalsp@lcr
+            \d@llarbegin                % after \hbox ...
+    \else
+        \edef\tabu@temp{\ifnum\tabu@currentgrouptype=5\vtop
+                        \else\ifnum\tabu@currentgrouptype=12\vcenter
+                        \else\vbox\fi\fi}%
+        \setbox\tabu@box \hbox\bgroup$\tabu@temp \bgroup
+            \let\tabu@verticalspacing \tabu@verticalsp@pmb
+    \fi
+}
+\makeatother
 
 
 
@@ -192,6 +211,7 @@
 \author{Michael Shirk}
 \date{MMXXI}
 % \maketitle
+\include{titlepage}
 
 \include{preface}
 
@@ -261,31 +281,31 @@ Sources:
 Collect "For Reconciliation with the Jews" on Good Friday from the Prayer Book Society of Canada; Authorized for use \emph{ad libitum} by the General Synod of the Anglican Church of Canada.
 
 
-\include {lectionary1662}
-{\tiny\begin{longtabu} to \linewidth 
-  {@{} c @{\hspace{.5em}} c @{\hspace{1em}}X[3,l]
-  |@{\hspace{.3em}}X[1,r]@{\hspace{.3em}}|@{\hspace{.3em}}X[1,r]@{\hspace{.3em}}||@{\hspace{.3em}}X[1,r]@{\hspace{.3em}}|@{\hspace{.3em}}X[1,r]@{\hspace{.3em}}|}
+% \include {lectionary1662}
+% {\tiny\begin{longtabu} to \linewidth 
+%   {@{} c @{\hspace{.5em}} c @{\hspace{1em}}X[3,l]
+%   |@{\hspace{.3em}}X[1,r]@{\hspace{.3em}}|@{\hspace{.3em}}X[1,r]@{\hspace{.3em}}||@{\hspace{.3em}}X[1,r]@{\hspace{.3em}}|@{\hspace{.3em}}X[1,r]@{\hspace{.3em}}|}
 
-   &          &          & \multicolumn{2}{c}{\scshape Mattins} & \multicolumn{2}{c}{\scshape Evensong} \\
-   &          &          & 1st        & 2nd        & 1st        & 2nd  \\ 
-   &          &          & Lesson     & Lesson     & Lesson     & Lesson \\ \hline
-1  & {\red A} & \dub{Circumcision}\dotfill & & & &\\ %of our Lord.
-2  & b        & \dotfill & Gen.~1     & Matt.~1    & Gen.~2     & Rom.~1 \\
-3  & c        & \dotfill & \dotfill 3 & \dotfill 2 & \dotfill 4 & \dotfill 2\\
-4  & d        & \dotfill & \dotfill 5 & \dotfill 3 & \dotfill 6 & \dotfill 3\\
-5  & e        & \dotfill & \dotfill 7 & \dotfill 4 & \dotfill 8 & \dotfill 4\\
-6  & f        & \dub{\red Epiphany}\dotfill & & & &\\ %of our Lord}.
-7  & g        & \dotfill & \dotfill 9 & \dotfill 5 & \dotfill 12 & \dotfill 5 \\ %(Keys of LXX.) 
-8  & {\red A} & S.~Lucian, B.M.\dotfill&\dotfill 13 & \dotfill 6 &  \dotfill 14 &    \dotfill 6\\
-9  & b        & \dotfill & \dotfill 15 & \dotfill 7 & \dotfill 16 & \dotfill    7 \\
-10 & c        & \dotfill & \dotfill 17 & \dotfill 8 & \dotfill 18 &  \dotfill     8 \\
-11 & d        & \dotfill & \dotfill 19 & \dotfill 9 &  \dotfill 20 & \dotfill    9 \\
-12 & e        & \dotfill & \dotfill 21 & \dotfill 10 & \dotfill 22 & \dotfill   10\\
-13 & f        & \mem{S.~Hilary, B.C.}\dotfill&   \dotfill   23 &     \dotfill   11 &   \dotfill   24 &   \dotfill   11\\
-14 & g        & \dotfill &   \dotfill   25 &   \dotfill     12 & \dotfill     26 &   \dotfill   12\\
+%    &          &          & \multicolumn{2}{c}{\scshape Mattins} & \multicolumn{2}{c}{\scshape Evensong} \\
+%    &          &          & 1st        & 2nd        & 1st        & 2nd  \\ 
+%    &          &          & Lesson     & Lesson     & Lesson     & Lesson \\ \hline
+% 1  & {\red A} & \dub{Circumcision}\dotfill & & & &\\ %of our Lord.
+% 2  & b        & \dotfill & Gen.~1     & Matt.~1    & Gen.~2     & Rom.~1 \\
+% 3  & c        & \dotfill & \dotfill 3 & \dotfill 2 & \dotfill 4 & \dotfill 2\\
+% 4  & d        & \dotfill & \dotfill 5 & \dotfill 3 & \dotfill 6 & \dotfill 3\\
+% 5  & e        & \dotfill & \dotfill 7 & \dotfill 4 & \dotfill 8 & \dotfill 4\\
+% 6  & f        & \dub{\red Epiphany}\dotfill & & & &\\ %of our Lord}.
+% 7  & g        & \dotfill & \dotfill 9 & \dotfill 5 & \dotfill 12 & \dotfill 5 \\ %(Keys of LXX.) 
+% 8  & {\red A} & S.~Lucian, B.M.\dotfill&\dotfill 13 & \dotfill 6 &  \dotfill 14 &    \dotfill 6\\
+% 9  & b        & \dotfill & \dotfill 15 & \dotfill 7 & \dotfill 16 & \dotfill    7 \\
+% 10 & c        & \dotfill & \dotfill 17 & \dotfill 8 & \dotfill 18 &  \dotfill     8 \\
+% 11 & d        & \dotfill & \dotfill 19 & \dotfill 9 &  \dotfill 20 & \dotfill    9 \\
+% 12 & e        & \dotfill & \dotfill 21 & \dotfill 10 & \dotfill 22 & \dotfill   10\\
+% 13 & f        & \mem{S.~Hilary, B.C.}\dotfill&   \dotfill   23 &     \dotfill   11 &   \dotfill   24 &   \dotfill   11\\
+% 14 & g        & \dotfill &   \dotfill   25 &   \dotfill     12 & \dotfill     26 &   \dotfill   12\\
 
 
-\end{longtabu}}
+% \end{longtabu}}
 
 justus.anglican.org/resources/bcp/copyrights.html:
 While it is commonly understood that all books published prior to 1923 are in the public domain, copyright notice or no, it is not so commonly known that many texts published after that date are also in the public domain. Under U. S. copyright law, any book published between 1923 and 1977 with no copyright notice is in the public domain. Also, if the book was published in the US with a copyright notice between 1923 and 1963 but that copyright was not renewed, it is in the public domain.
