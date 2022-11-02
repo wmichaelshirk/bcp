@@ -3,6 +3,7 @@
 \usepackage{svg}
 \usepackage{fontspec}
 \usepackage{lettrine}
+\usepackage[normalem]{ulem} % for strike-through \sout{}
 \usepackage[autocompile]{gregoriotex}
 \usepackage{multicol}
 \usepackage{multirow}
@@ -116,6 +117,8 @@
 \setsansfont{KJV1611}[RawFeature={+hist,+calt}]
 
 \newcommand \red{\addfontfeature{Color=990000}}
+\newcommand \black{\addfontfeature{Color=000000}}
+
 \newcommand \R{{\red℟.\ }}
 \newcommand \V{{\red℣.\ }}
 \newcommand \ant{{\scshape\small\red Ant.\ }}
@@ -250,15 +253,16 @@ Rules to Order the service
 
 \include{mass}
 \include{baptism}
-Form of admitting Catechumens (SA)
-The Ministration of Baptism for those of Riper Years
+\include{catechumens.tex}
+% Form of admitting Catechumens (SA)
+% The Ministration of Baptism for those of Riper Years
 \include{catechism}
 \include{confirmation}
 \include{confession}
 \include{matrimony}
-\chapter{The Blessing of Civil Marriage}
-SA/Indian suppliment
-Churching moved here?
+% \chapter{The Blessing of Civil Marriage}
+% SA/Indian suppliment
+% Churching moved here?
 \include{unction}
 \include{burial}
 \include{churching}
