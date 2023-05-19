@@ -1,4 +1,6 @@
-\documentclass[foolscapvopaper,10pt,twoside,openany,extrafontsizes,final]{memoir}
+%% LCC liturgy sized book: 4 x 6 3/8 "pottvopaper"; Margins: 5/8 l t r, 1/2 bottom.
+
+\documentclass[pottvopaper,11pt,twoside,openany,extrafontsizes,draft]{memoir}
 % \documentclass[ebook,12pt,twoside,openany,extrafontsizes,final]{memoir}
 \usepackage{svg}
 \usepackage{fontspec}
@@ -18,6 +20,8 @@
 % \usepackage{lua-visual-debug}
 % a Font that supplies Astrological glyphs
 \newfontfamily\versiculus{DejaVu Sans}
+
+
 
 \directlua{dofile("lua-functions.lua")}
 \newcommand{\drop}[1]{
@@ -116,6 +120,9 @@
 % \setsansfont{UnifrakturMaguntia}[StylisticSet={1},CharacterVariant={11,12,4:1}]
 \setsansfont{KJV1611}[RawFeature={+hist,+calt}]
 
+\setlxvchars[\rmfamily]
+\setxlvchars[\rmfamily]
+
 \newcommand \red{\addfontfeature{Color=990000}}
 \newcommand \black{\addfontfeature{Color=000000}}
 
@@ -137,10 +144,28 @@
 
 \renewcommand{\thefootnote}{\fnsymbol{footnote}}
 
-\medievalpage
+% \medievalpage
+% \raggedbottom
+% 
+
+
+
+% \settypeblocksize (below) will set the size of the typeblock, other commands will then be used to place it on
+% the paper. Alternatively the typeblock size can be determined by setting the margins
+% around it. We present this later on in this section (see
+% One will often find that using \settypeblocksize without subsequent use of
+% \setlrmargins and \setulmargins will result in errors as the relationships mentioned above
+% are not met (the \textwidth has changed, but not the margins).
+
+% \settypeblocksize{5.25in}{3.25in}{*}    1928 prop. has 39 lines per page; 1662 has 36
+
+\settypeblocksize{*}{1.11\xlvchars}{1.67}
+\setlrmargins{*}{*}{1.5}
+\setulmargins{*}{*}{1.5}
+\setheadfoot{\onelineskip}{2\onelineskip}
+\setheaderspaces{*}{.25\onelineskip}{*}
 \raggedbottom
 \checkandfixthelayout
-
 
 
 \newcounter{cnt}\setcounter{cnt}{0}

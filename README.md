@@ -29,6 +29,9 @@ lualatex bcp.tex
 * Add: Conjuring of Bread, of any object; asperges
 * Appendix: Proper ceremonies (moved to Propers?)
 
+
+* compare to http://justus.anglican.org/resources/bcp/Scotland/Perry1929.pdf, frere, dearmer.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
